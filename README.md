@@ -1,5 +1,5 @@
 ---
-title: Indonesian Regional Air Quality & Public Health
+title: Indonesian Regional Air Quality and Public Health
 colorFrom: green
 colorTo: blue
 sdk: streamlit
@@ -8,7 +8,7 @@ pinned: false
 license: mit
 ---
 
-# Indonesian Regional Air Quality & Public Health Monitoring Dataset 🇮🇩
+# Indonesian Regional Air Quality and Public Health Monitoring Dataset
 
 An automated synthetic dataset and interactive analytics web dashboard tracking Air Quality Index (AQI), pollutant concentrations (PM2.5, PM10, CO, NO2), air quality status, and public health impact metrics across major urban centers in Indonesia.
 
