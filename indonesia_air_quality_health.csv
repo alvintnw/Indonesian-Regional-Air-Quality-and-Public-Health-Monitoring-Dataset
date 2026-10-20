@@ -1,0 +1,1201 @@
+record_id,timestamp,city,province,pm25_ug_m3,pm10_ug_m3,co_ppm,no2_ppb,aqi_score,air_quality_status,dominant_pollutant
+AQI-8000,2026-10-13 22:44,Surabaya,Jawa Timur,70.9,104.1,1.77,27.8,98,Moderate,CO
+AQI-8001,2026-10-05 23:44,Bandung,Jawa Barat,15.1,22.2,1.85,53.7,20,Good,PM2.5
+AQI-8002,2026-10-12 05:44,Bekasi,Jawa Barat,15.0,26.8,2.58,32.5,20,Good,PM2.5
+AQI-8003,2026-09-25 12:44,Palembang,Sumatera Selatan,56.7,95.3,1.59,30.2,72,Moderate,PM2.5
+AQI-8004,2026-10-18 07:44,Bandung,Jawa Barat,59.7,99.3,3.36,26.4,73,Moderate,CO
+AQI-8005,2026-09-21 00:44,Semarang,Jawa Tengah,51.6,67.4,1.14,25.0,72,Moderate,PM2.5
+AQI-8006,2026-10-05 00:44,Surabaya,Jawa Timur,22.5,31.2,2.26,18.8,25,Good,PM10
+AQI-8007,2026-10-05 05:44,Surabaya,Jawa Timur,42.9,64.0,2.09,16.4,58,Moderate,PM2.5
+AQI-8008,2026-09-28 11:44,Bandung,Jawa Barat,72.1,103.9,2.7,22.1,79,Moderate,PM10
+AQI-8009,2026-10-05 13:44,Palembang,Sumatera Selatan,84.1,147.0,2.98,11.4,112,Unhealthy for Sensitive Groups,PM2.5
+AQI-8010,2026-10-12 17:44,Palembang,Sumatera Selatan,25.9,31.9,2.59,14.9,32,Good,PM10
+AQI-8011,2026-10-11 22:44,Bandung,Jawa Barat,68.1,116.0,2.45,15.5,85,Moderate,PM2.5
+AQI-8012,2026-10-05 12:44,Tangerang,Banten,52.5,65.9,1.44,43.5,58,Moderate,PM2.5
+AQI-8013,2026-09-27 15:44,Bandung,Jawa Barat,44.5,75.3,3.17,27.6,59,Moderate,PM10
+AQI-8014,2026-09-29 05:44,Bandung,Jawa Barat,107.0,131.0,3.22,15.0,119,Unhealthy for Sensitive Groups,NO2
+AQI-8015,2026-09-22 04:44,Tangerang,Banten,57.4,97.0,1.37,17.6,75,Moderate,PM2.5
+AQI-8016,2026-09-27 01:44,Surabaya,Jawa Timur,97.1,165.8,2.38,25.6,107,Unhealthy for Sensitive Groups,PM10
+AQI-8017,2026-10-16 05:44,Jakarta Pusat,DKI Jakarta,49.2,88.5,0.74,49.0,61,Moderate,PM2.5
+AQI-8018,2026-10-09 23:44,Tangerang,Banten,99.7,153.4,0.88,34.3,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8019,2026-10-08 06:44,Bekasi,Jawa Barat,36.0,48.0,1.29,31.3,44,Good,PM2.5
+AQI-8020,2026-09-24 12:44,Jakarta Pusat,DKI Jakarta,79.9,123.9,2.24,37.3,92,Moderate,PM2.5
+AQI-8021,2026-10-04 09:44,Bekasi,Jawa Barat,28.8,36.6,2.86,25.0,38,Good,PM10
+AQI-8022,2026-10-19 19:44,Jakarta Pusat,DKI Jakarta,42.1,69.2,0.89,46.9,56,Moderate,PM2.5
+AQI-8023,2026-10-07 19:44,Depok,Jawa Barat,99.9,148.6,1.57,13.1,129,Unhealthy for Sensitive Groups,PM2.5
+AQI-8024,2026-09-24 23:44,Palembang,Sumatera Selatan,58.1,73.7,1.84,52.1,70,Moderate,PM2.5
+AQI-8025,2026-09-28 23:44,Bekasi,Jawa Barat,91.6,120.2,2.0,12.3,106,Unhealthy for Sensitive Groups,CO
+AQI-8026,2026-09-21 09:44,Surabaya,Jawa Timur,18.4,25.6,2.04,29.8,25,Good,CO
+AQI-8027,2026-10-15 17:44,Tangerang,Banten,70.7,107.8,3.29,51.9,87,Moderate,CO
+AQI-8028,2026-09-21 17:44,Surabaya,Jawa Timur,48.3,67.2,1.95,24.2,54,Moderate,PM10
+AQI-8029,2026-10-16 07:44,Medan,Sumatera Utara,104.0,154.8,0.95,41.9,140,Unhealthy for Sensitive Groups,PM10
+AQI-8030,2026-09-28 21:44,Jakarta Pusat,DKI Jakarta,30.8,53.8,0.91,13.1,40,Good,PM2.5
+AQI-8031,2026-10-19 07:44,Makassar,Sulawesi Selatan,87.5,152.3,2.86,30.8,118,Unhealthy for Sensitive Groups,PM2.5
+AQI-8032,2026-09-28 00:44,Bandung,Jawa Barat,51.5,91.4,2.25,50.4,68,Moderate,PM2.5
+AQI-8033,2026-10-05 01:44,Semarang,Jawa Tengah,109.2,162.2,3.01,38.3,144,Unhealthy for Sensitive Groups,CO
+AQI-8034,2026-10-04 13:44,Bandung,Jawa Barat,54.7,81.2,3.16,15.2,66,Moderate,PM10
+AQI-8035,2026-10-18 17:44,Palembang,Sumatera Selatan,28.2,47.5,3.32,40.9,36,Good,NO2
+AQI-8036,2026-09-26 19:44,Bandung,Jawa Barat,75.1,132.6,1.19,37.6,85,Moderate,PM2.5
+AQI-8037,2026-10-19 13:44,Makassar,Sulawesi Selatan,47.5,73.1,1.8,54.3,53,Moderate,PM2.5
+AQI-8038,2026-10-19 11:44,Tangerang,Banten,109.7,181.2,1.25,17.4,150,Unhealthy for Sensitive Groups,PM10
+AQI-8039,2026-09-21 06:44,Depok,Jawa Barat,44.8,54.6,0.99,38.9,49,Good,PM10
+AQI-8040,2026-10-14 14:44,Semarang,Jawa Tengah,33.4,54.9,2.62,32.8,44,Good,PM10
+AQI-8041,2026-10-06 21:44,Surabaya,Jawa Timur,96.1,143.1,2.58,20.7,132,Unhealthy for Sensitive Groups,CO
+AQI-8042,2026-10-17 21:44,Jakarta Pusat,DKI Jakarta,68.6,103.8,0.94,25.5,93,Moderate,PM2.5
+AQI-8043,2026-09-25 14:44,Palembang,Sumatera Selatan,41.6,66.8,2.4,12.0,54,Moderate,PM10
+AQI-8044,2026-10-04 14:44,Makassar,Sulawesi Selatan,101.6,132.1,3.04,30.8,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8045,2026-10-05 17:44,Surabaya,Jawa Timur,60.8,104.8,3.02,19.9,83,Moderate,PM10
+AQI-8046,2026-09-26 16:44,Jakarta Pusat,DKI Jakarta,57.2,73.6,1.58,51.1,70,Moderate,PM2.5
+AQI-8047,2026-09-20 09:44,Tangerang,Banten,40.5,66.7,1.5,28.1,53,Moderate,PM10
+AQI-8048,2026-10-17 20:44,Depok,Jawa Barat,105.0,143.8,2.65,40.2,131,Unhealthy for Sensitive Groups,PM2.5
+AQI-8049,2026-10-15 14:44,Makassar,Sulawesi Selatan,32.2,49.3,1.14,12.9,39,Good,PM10
+AQI-8050,2026-09-21 12:44,Jakarta Pusat,DKI Jakarta,105.2,181.9,0.88,38.9,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8051,2026-10-11 11:44,Bandung,Jawa Barat,49.8,69.7,2.89,25.3,64,Moderate,PM10
+AQI-8052,2026-10-01 11:44,Jakarta Pusat,DKI Jakarta,60.7,88.4,2.2,20.7,69,Moderate,PM2.5
+AQI-8053,2026-10-16 06:44,Palembang,Sumatera Selatan,104.7,141.9,0.53,45.6,144,Unhealthy for Sensitive Groups,CO
+AQI-8054,2026-09-24 06:44,Medan,Sumatera Utara,19.4,25.2,2.02,42.2,22,Good,NO2
+AQI-8055,2026-10-17 04:44,Tangerang,Banten,56.5,73.9,3.14,31.1,67,Moderate,PM2.5
+AQI-8056,2026-10-08 01:44,Depok,Jawa Barat,100.8,134.6,0.92,25.4,134,Unhealthy for Sensitive Groups,PM2.5
+AQI-8057,2026-09-23 07:44,Bekasi,Jawa Barat,39.1,48.0,2.46,22.7,44,Good,NO2
+AQI-8058,2026-10-13 09:44,Bekasi,Jawa Barat,109.3,186.4,1.13,42.7,148,Unhealthy for Sensitive Groups,PM10
+AQI-8059,2026-09-28 14:44,Medan,Sumatera Utara,83.3,148.9,3.12,12.4,107,Unhealthy for Sensitive Groups,CO
+AQI-8060,2026-10-01 08:44,Jakarta Pusat,DKI Jakarta,109.1,146.9,1.29,50.9,138,Unhealthy for Sensitive Groups,PM10
+AQI-8061,2026-10-03 06:44,Bandung,Jawa Barat,105.0,135.1,2.98,39.5,130,Unhealthy for Sensitive Groups,PM2.5
+AQI-8062,2026-10-14 04:44,Semarang,Jawa Tengah,37.0,48.9,1.99,51.6,48,Good,PM2.5
+AQI-8063,2026-10-10 11:44,Depok,Jawa Barat,78.5,108.4,1.16,20.7,88,Moderate,PM2.5
+AQI-8064,2026-10-16 17:44,Depok,Jawa Barat,24.7,38.0,1.25,38.0,34,Good,PM2.5
+AQI-8065,2026-10-07 06:44,Makassar,Sulawesi Selatan,66.6,114.8,2.53,37.9,81,Moderate,PM2.5
+AQI-8066,2026-09-28 12:44,Bandung,Jawa Barat,31.9,40.7,1.27,28.2,40,Good,PM2.5
+AQI-8067,2026-10-16 02:44,Makassar,Sulawesi Selatan,45.1,75.6,2.86,53.0,61,Moderate,PM2.5
+AQI-8068,2026-09-28 03:44,Makassar,Sulawesi Selatan,59.9,89.6,2.09,20.0,72,Moderate,CO
+AQI-8069,2026-10-04 06:44,Bekasi,Jawa Barat,35.6,46.0,3.24,23.6,46,Good,PM10
+AQI-8070,2026-10-14 13:44,Jakarta Pusat,DKI Jakarta,16.4,26.7,0.79,48.6,19,Good,PM2.5
+AQI-8071,2026-10-03 12:44,Medan,Sumatera Utara,21.5,31.3,2.73,51.0,26,Good,PM2.5
+AQI-8072,2026-09-26 12:44,Semarang,Jawa Tengah,46.8,60.9,3.36,29.8,64,Moderate,PM2.5
+AQI-8073,2026-10-17 17:44,Bandung,Jawa Barat,48.0,83.8,2.4,52.5,53,Moderate,PM10
+AQI-8074,2026-10-15 13:44,Depok,Jawa Barat,62.5,95.8,2.11,46.0,79,Moderate,PM2.5
+AQI-8075,2026-09-20 15:44,Jakarta Pusat,DKI Jakarta,88.3,114.1,1.91,21.4,119,Unhealthy for Sensitive Groups,PM2.5
+AQI-8076,2026-10-09 19:44,Medan,Sumatera Utara,77.8,96.6,1.09,22.4,97,Moderate,NO2
+AQI-8077,2026-10-14 06:44,Tangerang,Banten,73.2,121.2,2.62,42.1,90,Moderate,CO
+AQI-8078,2026-09-20 03:44,Palembang,Sumatera Selatan,15.3,24.3,2.36,45.7,19,Good,PM2.5
+AQI-8079,2026-09-25 05:44,Semarang,Jawa Tengah,16.1,21.1,2.51,12.0,19,Good,PM2.5
+AQI-8080,2026-10-14 23:44,Jakarta Pusat,DKI Jakarta,71.6,118.1,0.65,36.0,89,Moderate,PM2.5
+AQI-8081,2026-09-30 16:44,Surabaya,Jawa Timur,74.4,101.2,0.76,40.2,82,Moderate,PM2.5
+AQI-8082,2026-10-19 16:44,Tangerang,Banten,93.1,113.3,1.26,31.3,104,Unhealthy for Sensitive Groups,NO2
+AQI-8083,2026-10-07 17:44,Tangerang,Banten,74.3,110.2,3.04,14.9,89,Moderate,PM2.5
+AQI-8084,2026-10-07 13:44,Medan,Sumatera Utara,73.3,118.0,2.32,16.1,84,Moderate,NO2
+AQI-8085,2026-10-17 13:44,Semarang,Jawa Tengah,42.3,65.6,1.12,34.2,51,Moderate,CO
+AQI-8086,2026-10-05 13:44,Bandung,Jawa Barat,46.8,62.4,2.36,49.8,53,Moderate,NO2
+AQI-8087,2026-09-27 18:44,Bekasi,Jawa Barat,76.3,120.8,0.92,17.6,87,Moderate,PM2.5
+AQI-8088,2026-09-22 16:44,Bekasi,Jawa Barat,43.2,57.3,1.24,18.3,50,Good,NO2
+AQI-8089,2026-09-23 13:44,Makassar,Sulawesi Selatan,99.0,153.3,3.2,21.0,114,Unhealthy for Sensitive Groups,PM2.5
+AQI-8090,2026-10-19 10:44,Depok,Jawa Barat,43.8,55.7,0.8,45.0,60,Moderate,PM10
+AQI-8091,2026-10-17 22:44,Depok,Jawa Barat,43.4,62.7,1.69,27.9,58,Moderate,PM2.5
+AQI-8092,2026-09-22 12:44,Surabaya,Jawa Timur,48.3,76.3,1.45,41.6,61,Moderate,PM2.5
+AQI-8093,2026-10-13 04:44,Palembang,Sumatera Selatan,27.9,35.9,1.81,37.0,36,Good,PM2.5
+AQI-8094,2026-10-13 10:44,Palembang,Sumatera Selatan,84.5,137.8,3.17,14.3,114,Unhealthy for Sensitive Groups,PM2.5
+AQI-8095,2026-10-18 05:44,Jakarta Pusat,DKI Jakarta,40.4,56.7,0.58,17.1,50,Good,NO2
+AQI-8096,2026-10-02 16:44,Depok,Jawa Barat,54.6,75.3,1.41,44.4,61,Moderate,PM2.5
+AQI-8097,2026-10-10 07:44,Jakarta Pusat,DKI Jakarta,50.0,86.9,2.15,45.7,62,Moderate,PM10
+AQI-8098,2026-10-12 19:44,Palembang,Sumatera Selatan,32.7,52.2,0.56,43.1,41,Good,PM10
+AQI-8099,2026-10-10 22:44,Makassar,Sulawesi Selatan,87.1,106.0,3.32,21.3,110,Unhealthy for Sensitive Groups,PM10
+AQI-8100,2026-09-29 04:44,Depok,Jawa Barat,56.1,97.7,3.27,51.7,76,Moderate,PM2.5
+AQI-8101,2026-10-02 16:44,Jakarta Pusat,DKI Jakarta,53.6,93.6,0.59,24.2,64,Moderate,PM2.5
+AQI-8102,2026-10-14 10:44,Palembang,Sumatera Selatan,45.0,76.6,1.25,44.8,56,Moderate,PM10
+AQI-8103,2026-10-11 02:44,Depok,Jawa Barat,62.9,107.2,0.52,20.2,78,Moderate,PM10
+AQI-8104,2026-10-05 11:44,Jakarta Pusat,DKI Jakarta,27.4,44.0,1.58,42.9,34,Good,CO
+AQI-8105,2026-10-16 22:44,Bekasi,Jawa Barat,30.0,47.3,2.43,29.7,37,Good,NO2
+AQI-8106,2026-10-13 06:44,Semarang,Jawa Tengah,69.5,95.6,2.54,14.0,85,Moderate,PM2.5
+AQI-8107,2026-09-21 16:44,Depok,Jawa Barat,87.2,107.8,2.32,20.1,95,Moderate,PM2.5
+AQI-8108,2026-10-02 18:44,Surabaya,Jawa Timur,78.6,94.8,0.89,26.6,98,Moderate,PM2.5
+AQI-8109,2026-10-14 06:44,Depok,Jawa Barat,33.4,51.0,2.54,10.7,38,Good,PM2.5
+AQI-8110,2026-09-29 10:44,Jakarta Pusat,DKI Jakarta,15.8,27.1,3.09,18.5,20,Good,PM2.5
+AQI-8111,2026-10-01 16:44,Surabaya,Jawa Timur,56.6,75.7,1.31,47.8,69,Moderate,PM10
+AQI-8112,2026-09-30 04:44,Medan,Sumatera Utara,94.1,160.2,1.04,24.7,119,Unhealthy for Sensitive Groups,PM2.5
+AQI-8113,2026-09-23 02:44,Jakarta Pusat,DKI Jakarta,103.8,157.0,3.33,47.9,127,Unhealthy for Sensitive Groups,CO
+AQI-8114,2026-09-21 09:44,Depok,Jawa Barat,28.9,38.2,3.39,42.3,37,Good,PM2.5
+AQI-8115,2026-10-05 12:44,Surabaya,Jawa Timur,44.9,70.3,0.54,54.9,60,Moderate,PM2.5
+AQI-8116,2026-09-25 23:44,Makassar,Sulawesi Selatan,44.3,70.7,3.38,48.3,60,Moderate,PM2.5
+AQI-8117,2026-10-06 05:44,Palembang,Sumatera Selatan,34.2,58.2,2.36,41.5,38,Good,CO
+AQI-8118,2026-10-09 08:44,Depok,Jawa Barat,88.2,157.8,2.52,14.8,123,Unhealthy for Sensitive Groups,PM2.5
+AQI-8119,2026-10-04 05:44,Palembang,Sumatera Selatan,58.2,72.6,2.0,44.4,65,Moderate,PM2.5
+AQI-8120,2026-10-04 23:44,Palembang,Sumatera Selatan,97.0,129.8,1.87,18.1,115,Unhealthy for Sensitive Groups,PM2.5
+AQI-8121,2026-09-22 16:44,Jakarta Pusat,DKI Jakarta,19.7,31.6,1.14,29.8,21,Good,PM2.5
+AQI-8122,2026-09-29 17:44,Depok,Jawa Barat,83.8,121.4,2.8,49.8,104,Unhealthy for Sensitive Groups,PM2.5
+AQI-8123,2026-10-05 06:44,Palembang,Sumatera Selatan,45.9,74.7,2.62,42.5,51,Moderate,PM2.5
+AQI-8124,2026-10-12 22:44,Palembang,Sumatera Selatan,73.7,104.1,2.84,19.6,91,Moderate,PM2.5
+AQI-8125,2026-10-18 01:44,Bandung,Jawa Barat,91.5,137.6,1.21,49.9,100,Moderate,PM2.5
+AQI-8126,2026-09-23 04:44,Depok,Jawa Barat,34.1,47.2,2.19,40.3,40,Good,PM10
+AQI-8127,2026-10-09 18:44,Bekasi,Jawa Barat,108.7,156.9,2.17,36.1,140,Unhealthy for Sensitive Groups,PM10
+AQI-8128,2026-10-01 12:44,Makassar,Sulawesi Selatan,103.6,182.1,1.01,41.2,128,Unhealthy for Sensitive Groups,PM10
+AQI-8129,2026-10-14 15:44,Semarang,Jawa Tengah,79.2,116.4,3.41,52.5,92,Moderate,PM2.5
+AQI-8130,2026-09-22 22:44,Depok,Jawa Barat,81.4,113.8,1.11,28.5,108,Unhealthy for Sensitive Groups,PM10
+AQI-8131,2026-09-23 16:44,Semarang,Jawa Tengah,66.0,117.0,1.18,33.8,80,Moderate,PM10
+AQI-8132,2026-10-09 18:44,Palembang,Sumatera Selatan,97.7,123.8,3.34,51.8,117,Unhealthy for Sensitive Groups,PM10
+AQI-8133,2026-10-18 14:44,Medan,Sumatera Utara,101.1,177.9,3.06,54.9,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-8134,2026-10-15 09:44,Palembang,Sumatera Selatan,74.6,114.4,1.44,17.7,98,Moderate,PM2.5
+AQI-8135,2026-09-22 18:44,Palembang,Sumatera Selatan,21.8,26.5,1.37,39.7,27,Good,PM2.5
+AQI-8136,2026-10-02 17:44,Jakarta Pusat,DKI Jakarta,71.8,120.5,0.77,44.3,85,Moderate,PM2.5
+AQI-8137,2026-09-20 03:44,Medan,Sumatera Utara,70.9,108.2,0.95,18.5,80,Moderate,PM2.5
+AQI-8138,2026-10-04 23:44,Palembang,Sumatera Selatan,100.2,130.5,3.16,51.6,116,Unhealthy for Sensitive Groups,PM2.5
+AQI-8139,2026-09-28 09:44,Depok,Jawa Barat,17.3,28.3,2.15,24.8,23,Good,PM2.5
+AQI-8140,2026-10-03 07:44,Semarang,Jawa Tengah,91.7,156.4,2.39,50.6,120,Unhealthy for Sensitive Groups,CO
+AQI-8141,2026-10-01 15:44,Medan,Sumatera Utara,87.0,117.7,2.07,22.8,101,Unhealthy for Sensitive Groups,PM10
+AQI-8142,2026-10-05 22:44,Surabaya,Jawa Timur,67.2,84.2,1.6,28.1,89,Moderate,PM2.5
+AQI-8143,2026-10-03 22:44,Makassar,Sulawesi Selatan,16.5,27.5,2.84,25.0,22,Good,PM2.5
+AQI-8144,2026-09-21 21:44,Bekasi,Jawa Barat,104.0,145.0,2.43,46.9,134,Unhealthy for Sensitive Groups,PM2.5
+AQI-8145,2026-10-10 03:44,Surabaya,Jawa Timur,97.9,153.6,1.67,47.0,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-8146,2026-09-22 21:44,Bekasi,Jawa Barat,103.5,137.4,1.5,20.7,128,Unhealthy for Sensitive Groups,PM2.5
+AQI-8147,2026-09-23 12:44,Semarang,Jawa Tengah,28.1,38.2,2.8,13.4,38,Good,PM2.5
+AQI-8148,2026-09-22 05:44,Bekasi,Jawa Barat,30.3,39.5,2.17,35.3,41,Good,PM2.5
+AQI-8149,2026-09-27 06:44,Tangerang,Banten,64.6,93.1,0.69,28.9,81,Moderate,PM2.5
+AQI-8150,2026-09-25 18:44,Bekasi,Jawa Barat,52.7,66.5,1.66,31.0,65,Moderate,PM2.5
+AQI-8151,2026-10-11 08:44,Semarang,Jawa Tengah,108.0,193.1,2.71,20.7,141,Unhealthy for Sensitive Groups,PM2.5
+AQI-8152,2026-09-28 11:44,Bekasi,Jawa Barat,102.7,145.4,2.59,20.6,141,Unhealthy for Sensitive Groups,PM2.5
+AQI-8153,2026-10-10 01:44,Jakarta Pusat,DKI Jakarta,35.0,47.7,2.82,16.5,40,Good,PM2.5
+AQI-8154,2026-09-28 21:44,Bandung,Jawa Barat,27.6,49.6,1.26,13.8,36,Good,PM2.5
+AQI-8155,2026-09-22 09:44,Depok,Jawa Barat,86.8,137.8,1.78,25.6,112,Unhealthy for Sensitive Groups,PM10
+AQI-8156,2026-09-27 13:44,Tangerang,Banten,38.4,50.1,3.08,11.3,47,Good,PM2.5
+AQI-8157,2026-10-14 02:44,Tangerang,Banten,71.2,110.2,0.66,11.5,97,Moderate,PM2.5
+AQI-8158,2026-10-02 02:44,Medan,Sumatera Utara,57.1,87.1,0.56,35.2,70,Moderate,PM2.5
+AQI-8159,2026-10-01 20:44,Tangerang,Banten,48.3,67.4,0.72,50.3,65,Moderate,NO2
+AQI-8160,2026-10-01 07:44,Surabaya,Jawa Timur,32.4,58.2,1.72,40.2,42,Good,PM2.5
+AQI-8161,2026-09-22 01:44,Medan,Sumatera Utara,69.3,98.0,3.18,20.6,81,Moderate,PM2.5
+AQI-8162,2026-10-12 18:44,Bekasi,Jawa Barat,66.1,106.7,2.23,38.1,74,Moderate,PM2.5
+AQI-8163,2026-09-28 08:44,Depok,Jawa Barat,36.1,63.5,2.87,30.7,45,Good,PM2.5
+AQI-8164,2026-10-13 15:44,Semarang,Jawa Tengah,25.0,41.9,0.72,43.4,28,Good,PM10
+AQI-8165,2026-10-18 01:44,Semarang,Jawa Tengah,106.9,180.4,2.62,17.8,129,Unhealthy for Sensitive Groups,PM10
+AQI-8166,2026-09-30 06:44,Surabaya,Jawa Timur,97.0,173.6,0.74,23.0,122,Unhealthy for Sensitive Groups,PM10
+AQI-8167,2026-09-23 04:44,Makassar,Sulawesi Selatan,39.5,69.7,1.27,30.4,53,Moderate,PM10
+AQI-8168,2026-10-02 23:44,Makassar,Sulawesi Selatan,101.7,134.5,2.76,21.3,125,Unhealthy for Sensitive Groups,PM10
+AQI-8169,2026-09-21 06:44,Palembang,Sumatera Selatan,98.7,173.5,1.9,16.9,121,Unhealthy for Sensitive Groups,NO2
+AQI-8170,2026-09-26 18:44,Medan,Sumatera Utara,80.8,125.6,2.39,32.7,112,Unhealthy for Sensitive Groups,PM10
+AQI-8171,2026-09-24 15:44,Bandung,Jawa Barat,80.3,97.5,0.76,25.2,99,Moderate,PM2.5
+AQI-8172,2026-10-06 12:44,Semarang,Jawa Tengah,82.1,135.6,1.74,41.1,100,Moderate,PM2.5
+AQI-8173,2026-10-05 11:44,Makassar,Sulawesi Selatan,76.0,124.0,1.48,45.3,93,Moderate,PM2.5
+AQI-8174,2026-09-25 13:44,Bandung,Jawa Barat,104.1,156.5,3.5,25.4,137,Unhealthy for Sensitive Groups,PM2.5
+AQI-8175,2026-10-14 12:44,Bekasi,Jawa Barat,20.1,34.9,3.18,49.1,27,Good,PM10
+AQI-8176,2026-10-02 10:44,Jakarta Pusat,DKI Jakarta,101.1,127.3,3.48,24.0,140,Unhealthy for Sensitive Groups,PM2.5
+AQI-8177,2026-10-15 14:44,Surabaya,Jawa Timur,70.4,102.5,0.96,53.0,94,Moderate,NO2
+AQI-8178,2026-09-23 11:44,Makassar,Sulawesi Selatan,59.8,85.6,1.84,52.2,77,Moderate,PM2.5
+AQI-8179,2026-10-05 07:44,Bandung,Jawa Barat,80.6,128.2,0.51,26.5,89,Moderate,PM10
+AQI-8180,2026-09-23 15:44,Surabaya,Jawa Timur,34.0,47.8,1.25,35.3,43,Good,PM2.5
+AQI-8181,2026-10-02 03:44,Jakarta Pusat,DKI Jakarta,80.4,97.8,0.78,45.0,104,Unhealthy for Sensitive Groups,PM2.5
+AQI-8182,2026-10-16 15:44,Surabaya,Jawa Timur,59.1,86.0,1.07,50.9,69,Moderate,PM2.5
+AQI-8183,2026-09-24 01:44,Bekasi,Jawa Barat,103.3,184.0,1.93,48.8,129,Unhealthy for Sensitive Groups,PM10
+AQI-8184,2026-10-14 05:44,Jakarta Pusat,DKI Jakarta,81.5,100.0,1.6,24.5,92,Moderate,PM2.5
+AQI-8185,2026-10-11 14:44,Surabaya,Jawa Timur,74.3,95.8,3.26,14.6,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-8186,2026-10-01 13:44,Surabaya,Jawa Timur,47.7,85.7,1.61,20.1,52,Moderate,PM10
+AQI-8187,2026-10-09 11:44,Medan,Sumatera Utara,16.5,22.6,1.12,44.9,20,Good,CO
+AQI-8188,2026-10-13 00:44,Palembang,Sumatera Selatan,33.0,55.0,3.49,26.6,41,Good,PM2.5
+AQI-8189,2026-09-23 18:44,Bekasi,Jawa Barat,51.5,70.0,1.91,53.0,57,Moderate,PM10
+AQI-8190,2026-10-16 14:44,Makassar,Sulawesi Selatan,42.6,62.8,1.7,33.8,47,Good,CO
+AQI-8191,2026-09-28 13:44,Semarang,Jawa Tengah,31.0,37.7,1.72,11.8,35,Good,PM2.5
+AQI-8192,2026-10-18 05:44,Bandung,Jawa Barat,25.4,34.1,0.63,26.3,29,Good,CO
+AQI-8193,2026-10-17 01:44,Bekasi,Jawa Barat,40.5,60.4,3.34,26.7,48,Good,PM2.5
+AQI-8194,2026-09-25 03:44,Semarang,Jawa Tengah,63.7,111.9,3.41,24.1,72,Moderate,PM2.5
+AQI-8195,2026-09-29 22:44,Semarang,Jawa Tengah,74.1,114.4,1.69,31.0,103,Unhealthy for Sensitive Groups,NO2
+AQI-8196,2026-10-01 00:44,Bandung,Jawa Barat,96.6,116.5,0.57,22.8,124,Unhealthy for Sensitive Groups,NO2
+AQI-8197,2026-10-07 07:44,Bekasi,Jawa Barat,24.1,36.3,1.44,41.8,30,Good,PM2.5
+AQI-8198,2026-10-13 16:44,Tangerang,Banten,97.6,136.5,1.19,18.2,132,Unhealthy for Sensitive Groups,CO
+AQI-8199,2026-09-25 19:44,Depok,Jawa Barat,99.8,169.6,1.27,54.5,113,Unhealthy for Sensitive Groups,PM10
+AQI-8200,2026-09-26 00:44,Jakarta Pusat,DKI Jakarta,32.5,54.9,2.86,14.0,39,Good,PM10
+AQI-8201,2026-10-06 16:44,Jakarta Pusat,DKI Jakarta,64.2,102.6,1.4,33.1,77,Moderate,CO
+AQI-8202,2026-10-09 21:44,Surabaya,Jawa Timur,33.0,55.8,2.17,50.8,39,Good,PM2.5
+AQI-8203,2026-09-28 16:44,Surabaya,Jawa Timur,80.4,138.8,1.34,51.7,95,Moderate,CO
+AQI-8204,2026-09-20 14:44,Bekasi,Jawa Barat,93.2,113.5,3.21,49.7,114,Unhealthy for Sensitive Groups,PM10
+AQI-8205,2026-10-02 10:44,Depok,Jawa Barat,105.0,157.0,2.93,21.7,146,Unhealthy for Sensitive Groups,PM2.5
+AQI-8206,2026-10-18 04:44,Bandung,Jawa Barat,43.3,61.4,2.09,18.8,49,Good,PM2.5
+AQI-8207,2026-10-10 10:44,Jakarta Pusat,DKI Jakarta,24.3,31.5,2.06,45.4,30,Good,PM2.5
+AQI-8208,2026-10-15 23:44,Depok,Jawa Barat,66.4,106.4,1.04,25.4,80,Moderate,PM2.5
+AQI-8209,2026-10-03 12:44,Makassar,Sulawesi Selatan,57.1,100.9,0.76,35.7,65,Moderate,PM10
+AQI-8210,2026-10-08 06:44,Makassar,Sulawesi Selatan,56.1,97.4,1.29,40.7,68,Moderate,PM10
+AQI-8211,2026-09-20 11:44,Medan,Sumatera Utara,32.3,46.3,1.57,20.5,42,Good,PM10
+AQI-8212,2026-10-08 17:44,Bandung,Jawa Barat,73.4,100.5,0.86,38.5,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8213,2026-10-01 18:44,Surabaya,Jawa Timur,47.1,83.6,3.47,46.4,52,Moderate,PM10
+AQI-8214,2026-10-17 21:44,Jakarta Pusat,DKI Jakarta,56.0,71.3,2.33,54.0,73,Moderate,PM10
+AQI-8215,2026-10-07 05:44,Tangerang,Banten,76.8,127.0,1.67,26.5,96,Moderate,PM2.5
+AQI-8216,2026-10-04 23:44,Bandung,Jawa Barat,57.9,96.9,2.68,12.4,65,Moderate,PM2.5
+AQI-8217,2026-09-22 15:44,Depok,Jawa Barat,26.0,34.1,2.47,44.5,29,Good,PM2.5
+AQI-8218,2026-09-30 23:44,Tangerang,Banten,28.9,42.7,1.26,42.4,32,Good,PM10
+AQI-8219,2026-10-07 07:44,Palembang,Sumatera Selatan,20.0,34.7,2.94,54.8,24,Good,PM2.5
+AQI-8220,2026-10-07 16:44,Bandung,Jawa Barat,90.3,110.4,1.05,54.6,117,Unhealthy for Sensitive Groups,NO2
+AQI-8221,2026-10-13 01:44,Tangerang,Banten,45.8,74.0,0.76,10.1,60,Moderate,PM10
+AQI-8222,2026-09-20 12:44,Semarang,Jawa Tengah,103.8,126.5,2.67,41.3,144,Unhealthy for Sensitive Groups,CO
+AQI-8223,2026-10-18 13:44,Surabaya,Jawa Timur,63.2,83.7,1.13,36.5,88,Moderate,PM2.5
+AQI-8224,2026-09-28 15:44,Makassar,Sulawesi Selatan,109.7,143.1,1.29,11.6,138,Unhealthy for Sensitive Groups,NO2
+AQI-8225,2026-09-23 13:44,Medan,Sumatera Utara,101.7,153.3,3.36,47.9,121,Unhealthy for Sensitive Groups,CO
+AQI-8226,2026-10-04 14:44,Semarang,Jawa Tengah,43.6,53.4,1.69,44.0,49,Good,PM10
+AQI-8227,2026-10-11 01:44,Makassar,Sulawesi Selatan,55.5,84.2,2.62,45.3,73,Moderate,PM10
+AQI-8228,2026-10-02 11:44,Palembang,Sumatera Selatan,43.6,66.8,1.99,15.1,50,Good,PM2.5
+AQI-8229,2026-10-04 09:44,Depok,Jawa Barat,58.9,100.2,1.57,39.4,76,Moderate,PM10
+AQI-8230,2026-09-26 19:44,Jakarta Pusat,DKI Jakarta,64.2,107.1,0.7,37.3,89,Moderate,CO
+AQI-8231,2026-09-27 02:44,Depok,Jawa Barat,82.9,118.7,1.4,27.8,108,Unhealthy for Sensitive Groups,NO2
+AQI-8232,2026-09-27 13:44,Medan,Sumatera Utara,73.3,108.2,1.67,22.2,85,Moderate,PM2.5
+AQI-8233,2026-10-11 21:44,Bandung,Jawa Barat,15.6,22.3,1.37,38.1,17,Good,NO2
+AQI-8234,2026-09-24 01:44,Makassar,Sulawesi Selatan,34.4,61.9,0.58,28.2,47,Good,PM2.5
+AQI-8235,2026-09-27 20:44,Medan,Sumatera Utara,107.9,157.0,2.83,40.5,121,Unhealthy for Sensitive Groups,PM10
+AQI-8236,2026-09-24 19:44,Medan,Sumatera Utara,97.2,141.6,1.34,16.1,109,Unhealthy for Sensitive Groups,CO
+AQI-8237,2026-10-11 08:44,Bekasi,Jawa Barat,47.3,63.1,2.12,38.0,60,Moderate,CO
+AQI-8238,2026-09-21 07:44,Makassar,Sulawesi Selatan,86.0,113.0,1.3,45.7,119,Unhealthy for Sensitive Groups,PM2.5
+AQI-8239,2026-10-15 00:44,Semarang,Jawa Tengah,54.6,85.1,2.07,38.3,73,Moderate,CO
+AQI-8240,2026-10-05 13:44,Medan,Sumatera Utara,104.1,148.9,0.6,20.9,118,Unhealthy for Sensitive Groups,PM10
+AQI-8241,2026-09-25 15:44,Medan,Sumatera Utara,30.1,51.3,1.82,19.7,35,Good,PM2.5
+AQI-8242,2026-10-15 05:44,Bandung,Jawa Barat,107.8,162.3,1.89,44.9,136,Unhealthy for Sensitive Groups,PM10
+AQI-8243,2026-10-04 17:44,Bekasi,Jawa Barat,60.6,104.5,1.84,17.4,76,Moderate,PM2.5
+AQI-8244,2026-10-02 15:44,Bekasi,Jawa Barat,23.9,42.6,3.19,10.7,30,Good,PM2.5
+AQI-8245,2026-10-07 22:44,Surabaya,Jawa Timur,87.9,120.7,1.68,44.5,120,Unhealthy for Sensitive Groups,NO2
+AQI-8246,2026-09-22 19:44,Tangerang,Banten,17.4,23.1,3.12,35.5,23,Good,PM10
+AQI-8247,2026-09-23 22:44,Palembang,Sumatera Selatan,44.1,55.5,0.55,48.6,58,Moderate,PM2.5
+AQI-8248,2026-10-16 10:44,Semarang,Jawa Tengah,53.2,76.3,1.34,23.4,59,Moderate,PM2.5
+AQI-8249,2026-09-30 10:44,Depok,Jawa Barat,101.4,169.6,2.59,46.9,115,Unhealthy for Sensitive Groups,NO2
+AQI-8250,2026-10-04 12:44,Tangerang,Banten,46.7,82.6,0.79,45.2,57,Moderate,PM10
+AQI-8251,2026-10-04 13:44,Medan,Sumatera Utara,109.4,187.1,1.72,16.7,145,Unhealthy for Sensitive Groups,PM2.5
+AQI-8252,2026-10-13 03:44,Bandung,Jawa Barat,93.7,113.2,0.55,10.1,111,Unhealthy for Sensitive Groups,PM2.5
+AQI-8253,2026-10-09 08:44,Tangerang,Banten,82.6,120.5,2.96,15.5,101,Unhealthy for Sensitive Groups,CO
+AQI-8254,2026-09-30 14:44,Bekasi,Jawa Barat,29.2,40.0,2.11,41.9,39,Good,PM2.5
+AQI-8255,2026-09-26 09:44,Bekasi,Jawa Barat,65.5,102.6,2.82,35.6,83,Moderate,PM2.5
+AQI-8256,2026-10-09 19:44,Palembang,Sumatera Selatan,85.5,150.0,3.01,23.4,99,Moderate,PM2.5
+AQI-8257,2026-09-25 16:44,Depok,Jawa Barat,76.4,125.7,2.69,14.1,90,Moderate,PM2.5
+AQI-8258,2026-10-17 00:44,Palembang,Sumatera Selatan,50.3,62.3,3.42,23.8,68,Moderate,PM10
+AQI-8259,2026-09-22 16:44,Semarang,Jawa Tengah,38.3,47.6,2.86,54.4,44,Good,PM2.5
+AQI-8260,2026-10-11 07:44,Medan,Sumatera Utara,15.1,19.0,1.88,34.2,19,Good,CO
+AQI-8261,2026-10-04 10:44,Depok,Jawa Barat,108.7,185.9,2.58,45.4,131,Unhealthy for Sensitive Groups,PM10
+AQI-8262,2026-10-08 03:44,Medan,Sumatera Utara,29.5,47.8,2.08,51.1,41,Good,PM10
+AQI-8263,2026-09-29 07:44,Tangerang,Banten,73.0,128.8,1.03,10.7,87,Moderate,PM2.5
+AQI-8264,2026-10-04 09:44,Bandung,Jawa Barat,20.8,32.2,2.81,12.7,24,Good,PM2.5
+AQI-8265,2026-10-08 23:44,Medan,Sumatera Utara,55.0,66.8,1.09,11.4,74,Moderate,NO2
+AQI-8266,2026-10-16 01:44,Depok,Jawa Barat,57.9,87.0,0.76,23.4,64,Moderate,PM2.5
+AQI-8267,2026-09-28 18:44,Depok,Jawa Barat,72.7,124.6,2.36,22.6,92,Moderate,PM10
+AQI-8268,2026-10-06 02:44,Medan,Sumatera Utara,38.8,69.5,1.46,31.6,52,Moderate,NO2
+AQI-8269,2026-09-25 21:44,Semarang,Jawa Tengah,65.6,99.9,3.14,49.8,86,Moderate,PM10
+AQI-8270,2026-10-06 03:44,Semarang,Jawa Tengah,20.9,35.4,1.27,30.0,28,Good,PM2.5
+AQI-8271,2026-10-17 03:44,Jakarta Pusat,DKI Jakarta,69.1,95.5,1.46,13.3,95,Moderate,PM10
+AQI-8272,2026-10-08 14:44,Tangerang,Banten,104.2,164.7,2.29,51.5,136,Unhealthy for Sensitive Groups,PM10
+AQI-8273,2026-10-20 00:44,Semarang,Jawa Tengah,56.7,101.9,2.37,23.8,68,Moderate,PM10
+AQI-8274,2026-10-02 11:44,Makassar,Sulawesi Selatan,52.1,64.0,3.37,21.1,65,Moderate,PM2.5
+AQI-8275,2026-10-07 04:44,Bandung,Jawa Barat,99.7,125.1,1.47,49.3,138,Unhealthy for Sensitive Groups,PM2.5
+AQI-8276,2026-10-19 05:44,Medan,Sumatera Utara,17.7,29.8,2.1,26.9,22,Good,PM2.5
+AQI-8277,2026-09-27 17:44,Tangerang,Banten,77.9,134.7,1.18,49.1,92,Moderate,NO2
+AQI-8278,2026-09-22 16:44,Surabaya,Jawa Timur,104.4,174.3,2.46,21.1,136,Unhealthy for Sensitive Groups,PM10
+AQI-8279,2026-10-07 20:44,Makassar,Sulawesi Selatan,79.5,103.2,1.85,53.8,88,Moderate,CO
+AQI-8280,2026-10-15 10:44,Depok,Jawa Barat,60.7,80.1,0.55,45.7,73,Moderate,PM10
+AQI-8281,2026-10-10 09:44,Tangerang,Banten,53.8,89.3,0.61,33.5,65,Moderate,PM2.5
+AQI-8282,2026-09-28 06:44,Makassar,Sulawesi Selatan,61.9,96.0,0.94,53.7,73,Moderate,PM2.5
+AQI-8283,2026-10-06 12:44,Surabaya,Jawa Timur,15.9,23.6,1.23,45.8,21,Good,PM10
+AQI-8284,2026-10-17 16:44,Semarang,Jawa Tengah,75.1,133.1,1.68,12.1,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8285,2026-10-10 06:44,Tangerang,Banten,85.2,121.3,0.74,50.7,110,Unhealthy for Sensitive Groups,PM2.5
+AQI-8286,2026-10-02 21:44,Medan,Sumatera Utara,75.4,97.7,2.37,33.0,86,Moderate,PM10
+AQI-8287,2026-10-03 04:44,Medan,Sumatera Utara,83.9,139.1,2.78,18.8,104,Unhealthy for Sensitive Groups,PM2.5
+AQI-8288,2026-09-28 01:44,Semarang,Jawa Tengah,105.3,183.7,1.23,12.1,118,Unhealthy for Sensitive Groups,PM10
+AQI-8289,2026-10-13 12:44,Bekasi,Jawa Barat,109.4,147.9,2.12,46.4,122,Unhealthy for Sensitive Groups,NO2
+AQI-8290,2026-10-18 09:44,Bekasi,Jawa Barat,94.9,163.6,1.77,35.6,129,Unhealthy for Sensitive Groups,PM2.5
+AQI-8291,2026-09-22 15:44,Semarang,Jawa Tengah,41.2,59.9,1.73,48.8,48,Good,PM10
+AQI-8292,2026-10-09 22:44,Surabaya,Jawa Timur,92.8,154.3,1.49,45.1,115,Unhealthy for Sensitive Groups,PM2.5
+AQI-8293,2026-09-25 05:44,Tangerang,Banten,102.3,134.5,1.06,27.2,114,Unhealthy for Sensitive Groups,PM10
+AQI-8294,2026-10-01 01:44,Jakarta Pusat,DKI Jakarta,110.0,151.6,3.22,18.7,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8295,2026-10-16 06:44,Makassar,Sulawesi Selatan,74.7,97.0,1.95,53.5,85,Moderate,PM2.5
+AQI-8296,2026-09-30 16:44,Jakarta Pusat,DKI Jakarta,20.1,34.7,2.8,42.1,25,Good,PM2.5
+AQI-8297,2026-10-04 08:44,Semarang,Jawa Tengah,88.9,136.7,3.08,54.6,103,Unhealthy for Sensitive Groups,PM10
+AQI-8298,2026-10-18 11:44,Makassar,Sulawesi Selatan,75.9,117.0,1.09,27.1,95,Moderate,PM2.5
+AQI-8299,2026-09-30 00:44,Jakarta Pusat,DKI Jakarta,60.2,99.8,2.16,33.2,76,Moderate,PM10
+AQI-8300,2026-10-04 19:44,Palembang,Sumatera Selatan,105.4,140.6,1.08,30.4,117,Unhealthy for Sensitive Groups,PM10
+AQI-8301,2026-10-03 23:44,Palembang,Sumatera Selatan,59.4,90.2,3.15,40.9,68,Moderate,PM2.5
+AQI-8302,2026-10-05 10:44,Bekasi,Jawa Barat,80.2,129.2,3.35,35.2,105,Unhealthy for Sensitive Groups,NO2
+AQI-8303,2026-10-08 19:44,Makassar,Sulawesi Selatan,76.4,110.5,1.66,38.5,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8304,2026-10-13 09:44,Semarang,Jawa Tengah,16.5,26.0,1.45,28.9,20,Good,PM10
+AQI-8305,2026-09-29 07:44,Palembang,Sumatera Selatan,104.2,146.7,3.11,32.1,124,Unhealthy for Sensitive Groups,PM10
+AQI-8306,2026-10-11 15:44,Bekasi,Jawa Barat,76.3,97.6,3.21,33.6,96,Moderate,PM2.5
+AQI-8307,2026-10-06 20:44,Medan,Sumatera Utara,97.6,127.5,2.88,10.9,112,Unhealthy for Sensitive Groups,PM2.5
+AQI-8308,2026-10-04 00:44,Bekasi,Jawa Barat,45.2,64.9,1.15,37.7,54,Moderate,PM2.5
+AQI-8309,2026-10-04 21:44,Bekasi,Jawa Barat,95.7,165.1,2.89,49.4,123,Unhealthy for Sensitive Groups,PM2.5
+AQI-8310,2026-10-05 16:44,Palembang,Sumatera Selatan,96.2,132.2,1.4,18.4,123,Unhealthy for Sensitive Groups,PM2.5
+AQI-8311,2026-09-26 21:44,Bekasi,Jawa Barat,87.2,112.0,0.55,13.9,98,Moderate,PM2.5
+AQI-8312,2026-09-30 21:44,Jakarta Pusat,DKI Jakarta,18.7,28.9,2.76,32.9,23,Good,PM2.5
+AQI-8313,2026-09-29 16:44,Jakarta Pusat,DKI Jakarta,81.7,101.0,1.27,45.6,103,Unhealthy for Sensitive Groups,PM10
+AQI-8314,2026-10-10 09:44,Surabaya,Jawa Timur,76.0,91.5,1.44,53.0,104,Unhealthy for Sensitive Groups,PM2.5
+AQI-8315,2026-09-30 03:44,Surabaya,Jawa Timur,27.9,45.8,1.62,32.3,31,Good,PM2.5
+AQI-8316,2026-10-02 21:44,Depok,Jawa Barat,104.1,163.5,0.73,43.4,140,Unhealthy for Sensitive Groups,PM2.5
+AQI-8317,2026-09-22 04:44,Bekasi,Jawa Barat,83.9,149.7,3.15,29.6,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-8318,2026-10-18 16:44,Semarang,Jawa Tengah,67.1,83.2,1.62,53.4,74,Moderate,PM10
+AQI-8319,2026-10-20 02:44,Semarang,Jawa Tengah,83.7,114.8,2.7,38.2,103,Unhealthy for Sensitive Groups,PM10
+AQI-8320,2026-10-02 20:44,Tangerang,Banten,56.1,71.9,0.52,12.5,69,Moderate,PM10
+AQI-8321,2026-10-15 06:44,Tangerang,Banten,44.2,74.7,1.34,25.4,55,Moderate,PM2.5
+AQI-8322,2026-10-12 03:44,Semarang,Jawa Tengah,54.0,77.1,1.5,47.9,70,Moderate,NO2
+AQI-8323,2026-10-06 10:44,Bekasi,Jawa Barat,75.1,96.9,0.56,36.9,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8324,2026-10-14 15:44,Bekasi,Jawa Barat,23.9,35.9,1.68,24.0,27,Good,NO2
+AQI-8325,2026-10-09 18:44,Bekasi,Jawa Barat,83.5,101.5,0.98,48.7,111,Unhealthy for Sensitive Groups,PM2.5
+AQI-8326,2026-09-27 07:44,Depok,Jawa Barat,92.2,164.9,1.63,12.4,108,Unhealthy for Sensitive Groups,PM10
+AQI-8327,2026-10-04 09:44,Bandung,Jawa Barat,45.0,74.3,3.01,43.0,53,Moderate,PM2.5
+AQI-8328,2026-09-25 13:44,Tangerang,Banten,108.1,135.0,1.62,36.0,151,Unhealthy,PM2.5
+AQI-8329,2026-10-13 23:44,Tangerang,Banten,30.9,46.2,2.21,12.6,36,Good,PM2.5
+AQI-8330,2026-09-21 15:44,Medan,Sumatera Utara,95.7,161.1,2.92,11.0,130,Unhealthy for Sensitive Groups,CO
+AQI-8331,2026-10-05 02:44,Makassar,Sulawesi Selatan,17.9,30.8,2.1,16.0,24,Good,PM10
+AQI-8332,2026-10-10 22:44,Depok,Jawa Barat,92.9,126.9,1.48,13.5,128,Unhealthy for Sensitive Groups,PM10
+AQI-8333,2026-10-02 21:44,Depok,Jawa Barat,74.3,94.1,2.82,27.2,94,Moderate,PM10
+AQI-8334,2026-10-03 00:44,Bandung,Jawa Barat,53.3,68.7,2.27,13.9,62,Moderate,PM10
+AQI-8335,2026-09-28 19:44,Depok,Jawa Barat,93.0,153.9,3.03,41.5,126,Unhealthy for Sensitive Groups,NO2
+AQI-8336,2026-10-18 20:44,Depok,Jawa Barat,97.1,129.2,2.39,11.3,116,Unhealthy for Sensitive Groups,PM2.5
+AQI-8337,2026-10-16 02:44,Bekasi,Jawa Barat,38.4,63.2,0.86,11.0,47,Good,PM10
+AQI-8338,2026-09-23 13:44,Bekasi,Jawa Barat,87.3,126.6,0.79,34.5,109,Unhealthy for Sensitive Groups,CO
+AQI-8339,2026-10-15 08:44,Bandung,Jawa Barat,50.7,68.4,3.37,33.4,58,Moderate,CO
+AQI-8340,2026-10-20 01:44,Bandung,Jawa Barat,18.6,22.9,1.17,38.2,22,Good,CO
+AQI-8341,2026-10-01 09:44,Semarang,Jawa Tengah,61.0,80.2,1.89,40.1,77,Moderate,PM2.5
+AQI-8342,2026-09-29 14:44,Bekasi,Jawa Barat,96.8,168.8,0.78,30.4,107,Unhealthy for Sensitive Groups,PM2.5
+AQI-8343,2026-10-13 21:44,Semarang,Jawa Tengah,76.6,120.5,3.37,40.4,89,Moderate,PM2.5
+AQI-8344,2026-10-13 10:44,Surabaya,Jawa Timur,29.7,38.0,1.48,27.9,33,Good,PM2.5
+AQI-8345,2026-10-01 03:44,Bekasi,Jawa Barat,88.8,155.0,2.15,31.7,118,Unhealthy for Sensitive Groups,PM10
+AQI-8346,2026-10-02 01:44,Makassar,Sulawesi Selatan,63.7,108.8,1.67,13.1,87,Moderate,PM2.5
+AQI-8347,2026-09-22 03:44,Bandung,Jawa Barat,55.0,67.9,3.21,44.6,69,Moderate,PM10
+AQI-8348,2026-09-23 02:44,Jakarta Pusat,DKI Jakarta,80.5,143.2,2.42,54.0,98,Moderate,PM10
+AQI-8349,2026-10-09 12:44,Tangerang,Banten,62.9,87.1,0.95,31.6,86,Moderate,PM2.5
+AQI-8350,2026-10-02 15:44,Medan,Sumatera Utara,16.6,28.1,1.54,31.9,19,Good,CO
+AQI-8351,2026-09-27 17:44,Bandung,Jawa Barat,51.6,64.2,3.17,10.9,59,Moderate,PM2.5
+AQI-8352,2026-09-22 07:44,Palembang,Sumatera Selatan,16.6,23.8,1.27,50.9,18,Good,PM2.5
+AQI-8353,2026-10-07 04:44,Bandung,Jawa Barat,61.2,105.0,1.02,47.3,85,Moderate,PM10
+AQI-8354,2026-10-13 17:44,Medan,Sumatera Utara,87.2,106.5,0.65,34.1,115,Unhealthy for Sensitive Groups,PM2.5
+AQI-8355,2026-10-01 00:44,Semarang,Jawa Tengah,88.5,117.3,1.97,45.7,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8356,2026-09-25 05:44,Medan,Sumatera Utara,48.9,69.4,0.99,13.3,60,Moderate,PM2.5
+AQI-8357,2026-10-03 05:44,Jakarta Pusat,DKI Jakarta,91.6,157.9,2.04,49.0,107,Unhealthy for Sensitive Groups,PM2.5
+AQI-8358,2026-10-18 11:44,Tangerang,Banten,78.1,114.6,2.14,21.7,87,Moderate,PM10
+AQI-8359,2026-10-06 14:44,Palembang,Sumatera Selatan,85.3,144.0,2.12,25.7,101,Unhealthy for Sensitive Groups,NO2
+AQI-8360,2026-09-29 12:44,Makassar,Sulawesi Selatan,103.9,142.6,1.01,25.7,116,Unhealthy for Sensitive Groups,PM2.5
+AQI-8361,2026-10-16 21:44,Tangerang,Banten,37.1,47.0,2.67,20.5,47,Good,CO
+AQI-8362,2026-10-03 22:44,Makassar,Sulawesi Selatan,19.4,31.3,3.28,23.5,22,Good,PM10
+AQI-8363,2026-09-20 06:44,Makassar,Sulawesi Selatan,50.6,64.8,3.49,15.2,59,Moderate,PM2.5
+AQI-8364,2026-10-08 20:44,Tangerang,Banten,20.1,33.8,0.66,52.9,24,Good,PM2.5
+AQI-8365,2026-10-13 06:44,Makassar,Sulawesi Selatan,56.0,86.9,1.94,42.3,77,Moderate,PM2.5
+AQI-8366,2026-09-22 18:44,Jakarta Pusat,DKI Jakarta,21.1,29.0,2.78,53.6,24,Good,PM10
+AQI-8367,2026-10-08 07:44,Palembang,Sumatera Selatan,100.7,145.0,2.88,42.9,134,Unhealthy for Sensitive Groups,PM10
+AQI-8368,2026-10-19 03:44,Surabaya,Jawa Timur,42.7,60.6,1.08,17.0,55,Moderate,NO2
+AQI-8369,2026-09-25 12:44,Bandung,Jawa Barat,50.3,90.5,1.27,13.7,69,Moderate,NO2
+AQI-8370,2026-10-14 00:44,Makassar,Sulawesi Selatan,103.0,183.0,1.5,32.6,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8371,2026-09-28 16:44,Depok,Jawa Barat,44.3,70.6,1.19,21.0,53,Moderate,NO2
+AQI-8372,2026-09-22 19:44,Jakarta Pusat,DKI Jakarta,105.3,161.0,1.93,31.4,144,Unhealthy for Sensitive Groups,PM10
+AQI-8373,2026-10-10 14:44,Jakarta Pusat,DKI Jakarta,60.2,86.9,2.09,17.9,74,Moderate,PM2.5
+AQI-8374,2026-09-23 10:44,Jakarta Pusat,DKI Jakarta,41.7,69.5,3.0,45.5,51,Moderate,NO2
+AQI-8375,2026-10-10 01:44,Makassar,Sulawesi Selatan,35.5,59.2,3.48,16.3,44,Good,PM2.5
+AQI-8376,2026-09-22 00:44,Surabaya,Jawa Timur,77.0,119.9,1.53,48.6,89,Moderate,PM2.5
+AQI-8377,2026-10-06 00:44,Medan,Sumatera Utara,70.4,106.2,0.67,35.1,96,Moderate,PM10
+AQI-8378,2026-09-27 01:44,Medan,Sumatera Utara,95.1,136.6,0.74,41.5,120,Unhealthy for Sensitive Groups,CO
+AQI-8379,2026-10-13 02:44,Makassar,Sulawesi Selatan,33.8,56.9,2.6,28.2,37,Good,CO
+AQI-8380,2026-10-07 07:44,Tangerang,Banten,34.1,61.3,2.73,15.0,40,Good,PM2.5
+AQI-8381,2026-10-07 02:44,Semarang,Jawa Tengah,44.1,53.1,1.98,19.1,48,Good,PM2.5
+AQI-8382,2026-10-05 19:44,Tangerang,Banten,43.8,54.4,2.95,33.9,57,Moderate,PM2.5
+AQI-8383,2026-10-17 00:44,Semarang,Jawa Tengah,49.8,75.9,2.69,37.5,67,Moderate,PM10
+AQI-8384,2026-09-21 17:44,Surabaya,Jawa Timur,36.2,46.9,2.62,41.7,43,Good,PM2.5
+AQI-8385,2026-10-09 02:44,Tangerang,Banten,19.3,32.8,3.48,31.4,21,Good,PM10
+AQI-8386,2026-10-16 04:44,Medan,Sumatera Utara,34.4,42.6,2.39,47.0,45,Good,PM2.5
+AQI-8387,2026-10-18 03:44,Semarang,Jawa Tengah,58.2,74.3,0.79,14.7,67,Moderate,PM2.5
+AQI-8388,2026-09-22 03:44,Semarang,Jawa Tengah,57.0,76.7,3.23,11.4,70,Moderate,PM10
+AQI-8389,2026-10-13 04:44,Bandung,Jawa Barat,65.8,97.8,0.81,16.4,86,Moderate,PM2.5
+AQI-8390,2026-10-02 05:44,Semarang,Jawa Tengah,22.6,31.2,2.19,24.7,29,Good,PM2.5
+AQI-8391,2026-09-29 03:44,Makassar,Sulawesi Selatan,56.7,75.2,2.06,53.8,78,Moderate,PM2.5
+AQI-8392,2026-10-01 18:44,Depok,Jawa Barat,69.1,100.6,1.5,27.9,87,Moderate,PM2.5
+AQI-8393,2026-09-26 18:44,Medan,Sumatera Utara,67.9,99.5,2.02,15.6,94,Moderate,PM10
+AQI-8394,2026-10-12 05:44,Bandung,Jawa Barat,60.4,86.8,1.28,26.8,80,Moderate,PM2.5
+AQI-8395,2026-09-27 07:44,Jakarta Pusat,DKI Jakarta,50.7,82.6,1.05,27.3,65,Moderate,PM2.5
+AQI-8396,2026-09-30 20:44,Surabaya,Jawa Timur,44.2,71.5,3.5,30.1,61,Moderate,CO
+AQI-8397,2026-09-27 03:44,Bandung,Jawa Barat,19.4,25.0,1.38,52.0,25,Good,PM10
+AQI-8398,2026-10-15 05:44,Bandung,Jawa Barat,106.5,176.4,2.9,36.9,121,Unhealthy for Sensitive Groups,PM2.5
+AQI-8399,2026-10-04 18:44,Bekasi,Jawa Barat,83.9,142.7,2.19,28.2,100,Moderate,PM2.5
+AQI-8400,2026-09-22 20:44,Tangerang,Banten,45.2,76.8,2.05,12.8,59,Moderate,NO2
+AQI-8401,2026-09-23 05:44,Jakarta Pusat,DKI Jakarta,105.6,178.2,1.0,16.7,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8402,2026-10-17 16:44,Depok,Jawa Barat,61.1,98.6,3.35,48.8,69,Moderate,PM2.5
+AQI-8403,2026-09-20 23:44,Bekasi,Jawa Barat,77.4,108.4,0.68,12.2,94,Moderate,NO2
+AQI-8404,2026-10-18 13:44,Jakarta Pusat,DKI Jakarta,75.7,127.6,2.78,24.7,85,Moderate,CO
+AQI-8405,2026-09-28 12:44,Palembang,Sumatera Selatan,62.4,77.2,1.04,22.7,73,Moderate,PM10
+AQI-8406,2026-10-06 00:44,Bandung,Jawa Barat,38.8,48.1,2.97,14.6,52,Moderate,CO
+AQI-8407,2026-10-10 12:44,Jakarta Pusat,DKI Jakarta,84.9,150.0,2.39,20.6,107,Unhealthy for Sensitive Groups,PM2.5
+AQI-8408,2026-09-30 12:44,Jakarta Pusat,DKI Jakarta,93.2,133.9,3.0,44.3,118,Unhealthy for Sensitive Groups,PM2.5
+AQI-8409,2026-10-19 16:44,Tangerang,Banten,58.1,100.5,0.72,17.6,80,Moderate,PM10
+AQI-8410,2026-10-16 11:44,Bandung,Jawa Barat,16.4,21.5,0.75,18.8,19,Good,PM2.5
+AQI-8411,2026-10-03 01:44,Makassar,Sulawesi Selatan,50.7,84.2,2.24,18.0,68,Moderate,PM2.5
+AQI-8412,2026-10-14 15:44,Makassar,Sulawesi Selatan,16.1,23.1,2.69,31.8,19,Good,PM2.5
+AQI-8413,2026-09-28 13:44,Jakarta Pusat,DKI Jakarta,56.1,92.9,1.49,31.8,76,Moderate,PM2.5
+AQI-8414,2026-10-11 09:44,Tangerang,Banten,49.7,62.9,2.28,18.0,67,Moderate,PM2.5
+AQI-8415,2026-10-17 14:44,Bandung,Jawa Barat,51.3,84.9,0.58,11.5,60,Moderate,PM2.5
+AQI-8416,2026-10-19 23:44,Palembang,Sumatera Selatan,82.3,121.3,2.53,33.8,105,Unhealthy for Sensitive Groups,NO2
+AQI-8417,2026-09-28 07:44,Bandung,Jawa Barat,73.7,116.5,1.85,27.8,98,Moderate,PM2.5
+AQI-8418,2026-10-08 22:44,Makassar,Sulawesi Selatan,31.8,38.7,1.24,37.1,38,Good,PM10
+AQI-8419,2026-10-20 02:44,Bekasi,Jawa Barat,104.4,127.4,1.3,39.6,116,Unhealthy for Sensitive Groups,NO2
+AQI-8420,2026-10-01 02:44,Depok,Jawa Barat,78.8,100.0,0.66,52.9,102,Unhealthy for Sensitive Groups,CO
+AQI-8421,2026-09-26 01:44,Semarang,Jawa Tengah,84.3,141.4,1.17,37.2,97,Moderate,PM2.5
+AQI-8422,2026-10-05 20:44,Jakarta Pusat,DKI Jakarta,47.6,65.8,2.01,36.9,54,Moderate,PM2.5
+AQI-8423,2026-10-12 23:44,Tangerang,Banten,104.2,142.8,2.31,16.5,131,Unhealthy for Sensitive Groups,CO
+AQI-8424,2026-10-15 06:44,Medan,Sumatera Utara,52.8,85.9,2.72,53.6,62,Moderate,PM2.5
+AQI-8425,2026-09-21 05:44,Bandung,Jawa Barat,94.5,154.4,2.32,53.7,127,Unhealthy for Sensitive Groups,PM2.5
+AQI-8426,2026-10-10 22:44,Depok,Jawa Barat,54.9,89.1,2.48,18.9,74,Moderate,NO2
+AQI-8427,2026-10-05 20:44,Bandung,Jawa Barat,47.9,78.6,3.48,24.0,64,Moderate,CO
+AQI-8428,2026-09-27 08:44,Semarang,Jawa Tengah,29.8,50.0,1.79,41.1,40,Good,PM10
+AQI-8429,2026-09-28 01:44,Makassar,Sulawesi Selatan,69.3,106.3,2.59,23.3,95,Moderate,PM2.5
+AQI-8430,2026-09-27 03:44,Jakarta Pusat,DKI Jakarta,46.7,56.5,0.8,29.2,62,Moderate,PM10
+AQI-8431,2026-10-12 03:44,Bekasi,Jawa Barat,32.3,49.7,1.24,35.0,42,Good,PM10
+AQI-8432,2026-10-03 06:44,Makassar,Sulawesi Selatan,102.5,147.1,0.58,21.7,138,Unhealthy for Sensitive Groups,PM2.5
+AQI-8433,2026-10-08 10:44,Depok,Jawa Barat,70.1,111.9,2.79,20.3,90,Moderate,PM2.5
+AQI-8434,2026-10-15 00:44,Bandung,Jawa Barat,90.1,146.0,1.18,36.4,108,Unhealthy for Sensitive Groups,PM2.5
+AQI-8435,2026-09-29 15:44,Palembang,Sumatera Selatan,15.6,24.5,0.52,32.4,20,Good,PM2.5
+AQI-8436,2026-09-27 07:44,Depok,Jawa Barat,70.2,111.5,1.84,42.8,81,Moderate,PM10
+AQI-8437,2026-10-18 00:44,Depok,Jawa Barat,56.7,77.3,1.82,12.9,67,Moderate,PM10
+AQI-8438,2026-09-29 23:44,Depok,Jawa Barat,19.6,31.2,3.29,51.3,23,Good,PM2.5
+AQI-8439,2026-10-15 15:44,Semarang,Jawa Tengah,108.4,183.8,1.01,54.9,134,Unhealthy for Sensitive Groups,CO
+AQI-8440,2026-10-15 20:44,Depok,Jawa Barat,81.1,136.4,0.68,49.5,107,Unhealthy for Sensitive Groups,NO2
+AQI-8441,2026-09-24 16:44,Makassar,Sulawesi Selatan,87.6,119.0,2.2,14.4,118,Unhealthy for Sensitive Groups,PM2.5
+AQI-8442,2026-09-24 15:44,Jakarta Pusat,DKI Jakarta,67.6,98.5,1.26,15.4,79,Moderate,CO
+AQI-8443,2026-10-13 21:44,Makassar,Sulawesi Selatan,44.3,72.2,2.92,38.7,57,Moderate,PM2.5
+AQI-8444,2026-10-08 03:44,Tangerang,Banten,57.6,78.5,1.58,53.2,65,Moderate,PM2.5
+AQI-8445,2026-09-20 03:44,Depok,Jawa Barat,41.4,56.4,1.35,52.5,46,Good,CO
+AQI-8446,2026-10-09 10:44,Bekasi,Jawa Barat,82.1,119.8,2.99,18.6,90,Moderate,PM2.5
+AQI-8447,2026-10-13 01:44,Depok,Jawa Barat,102.0,170.5,0.66,46.5,138,Unhealthy for Sensitive Groups,PM2.5
+AQI-8448,2026-10-02 13:44,Jakarta Pusat,DKI Jakarta,98.1,155.9,1.3,29.9,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8449,2026-09-30 13:44,Makassar,Sulawesi Selatan,109.6,168.4,1.3,18.9,150,Unhealthy for Sensitive Groups,PM2.5
+AQI-8450,2026-09-23 03:44,Tangerang,Banten,81.8,110.6,3.47,22.8,97,Moderate,PM10
+AQI-8451,2026-09-23 11:44,Surabaya,Jawa Timur,100.0,141.3,2.99,25.5,127,Unhealthy for Sensitive Groups,PM2.5
+AQI-8452,2026-10-13 19:44,Tangerang,Banten,28.3,37.7,0.7,16.6,39,Good,PM10
+AQI-8453,2026-10-08 21:44,Medan,Sumatera Utara,86.7,147.4,3.4,47.6,96,Moderate,PM10
+AQI-8454,2026-10-05 21:44,Tangerang,Banten,102.0,171.9,2.78,10.0,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8455,2026-09-29 13:44,Jakarta Pusat,DKI Jakarta,33.3,59.3,0.55,13.7,44,Good,PM10
+AQI-8456,2026-10-07 09:44,Bandung,Jawa Barat,49.6,68.3,0.52,24.4,66,Moderate,PM2.5
+AQI-8457,2026-09-20 07:44,Jakarta Pusat,DKI Jakarta,46.9,64.9,0.7,23.2,55,Moderate,NO2
+AQI-8458,2026-10-17 13:44,Depok,Jawa Barat,58.8,98.7,3.01,46.3,81,Moderate,PM10
+AQI-8459,2026-10-15 04:44,Semarang,Jawa Tengah,45.2,61.4,0.72,21.7,58,Moderate,PM2.5
+AQI-8460,2026-10-06 10:44,Surabaya,Jawa Timur,18.1,32.3,0.95,18.7,25,Good,PM2.5
+AQI-8461,2026-09-26 19:44,Tangerang,Banten,43.1,55.1,0.9,37.1,50,Good,PM10
+AQI-8462,2026-10-09 14:44,Bandung,Jawa Barat,34.5,60.2,1.96,30.7,45,Good,PM10
+AQI-8463,2026-09-23 08:44,Palembang,Sumatera Selatan,79.5,126.0,1.27,15.3,99,Moderate,PM2.5
+AQI-8464,2026-10-12 16:44,Jakarta Pusat,DKI Jakarta,19.6,32.1,1.7,32.2,25,Good,PM2.5
+AQI-8465,2026-10-14 09:44,Surabaya,Jawa Timur,87.7,122.7,3.3,35.5,112,Unhealthy for Sensitive Groups,PM2.5
+AQI-8466,2026-10-09 13:44,Makassar,Sulawesi Selatan,52.8,78.2,0.7,12.3,71,Moderate,NO2
+AQI-8467,2026-10-14 15:44,Makassar,Sulawesi Selatan,27.9,49.4,3.38,18.8,31,Good,PM2.5
+AQI-8468,2026-09-28 16:44,Medan,Sumatera Utara,21.7,36.3,1.17,19.8,27,Good,PM2.5
+AQI-8469,2026-10-14 13:44,Jakarta Pusat,DKI Jakarta,53.5,88.4,1.53,17.2,71,Moderate,PM2.5
+AQI-8470,2026-10-19 01:44,Bekasi,Jawa Barat,105.5,179.1,2.96,22.3,137,Unhealthy for Sensitive Groups,PM10
+AQI-8471,2026-10-11 17:44,Bekasi,Jawa Barat,102.8,173.3,3.37,32.4,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8472,2026-10-15 22:44,Jakarta Pusat,DKI Jakarta,64.7,78.8,2.86,48.5,90,Moderate,PM2.5
+AQI-8473,2026-10-08 01:44,Jakarta Pusat,DKI Jakarta,108.9,156.6,3.13,43.4,127,Unhealthy for Sensitive Groups,PM10
+AQI-8474,2026-09-27 05:44,Depok,Jawa Barat,15.6,20.7,3.38,13.0,19,Good,PM2.5
+AQI-8475,2026-10-13 01:44,Surabaya,Jawa Timur,81.1,98.0,2.08,16.8,102,Unhealthy for Sensitive Groups,PM2.5
+AQI-8476,2026-10-07 05:44,Palembang,Sumatera Selatan,88.9,146.9,1.95,27.2,107,Unhealthy for Sensitive Groups,CO
+AQI-8477,2026-10-11 09:44,Semarang,Jawa Tengah,92.3,135.8,1.32,22.2,107,Unhealthy for Sensitive Groups,PM2.5
+AQI-8478,2026-10-13 03:44,Makassar,Sulawesi Selatan,32.5,57.4,2.31,43.2,41,Good,PM10
+AQI-8479,2026-09-25 19:44,Surabaya,Jawa Timur,54.7,85.3,1.39,15.7,65,Moderate,PM2.5
+AQI-8480,2026-10-10 06:44,Depok,Jawa Barat,94.2,115.4,2.6,39.3,110,Unhealthy for Sensitive Groups,PM2.5
+AQI-8481,2026-10-07 01:44,Surabaya,Jawa Timur,20.6,36.1,0.84,42.7,28,Good,PM2.5
+AQI-8482,2026-10-02 16:44,Palembang,Sumatera Selatan,44.3,59.4,0.72,19.3,59,Moderate,PM2.5
+AQI-8483,2026-09-24 18:44,Medan,Sumatera Utara,90.4,125.4,3.12,39.4,112,Unhealthy for Sensitive Groups,PM10
+AQI-8484,2026-10-10 16:44,Tangerang,Banten,36.6,65.0,1.6,32.9,49,Good,PM2.5
+AQI-8485,2026-10-05 04:44,Tangerang,Banten,52.1,63.6,2.52,26.8,65,Moderate,PM10
+AQI-8486,2026-10-01 19:44,Medan,Sumatera Utara,61.8,103.7,2.28,25.2,84,Moderate,PM10
+AQI-8487,2026-10-11 11:44,Bandung,Jawa Barat,27.5,34.7,2.2,34.2,30,Good,PM10
+AQI-8488,2026-10-01 00:44,Surabaya,Jawa Timur,50.4,78.5,2.68,32.8,58,Moderate,PM10
+AQI-8489,2026-10-06 12:44,Medan,Sumatera Utara,81.1,117.0,1.46,46.9,105,Unhealthy for Sensitive Groups,PM2.5
+AQI-8490,2026-10-07 03:44,Tangerang,Banten,35.2,47.5,3.33,21.9,48,Good,PM10
+AQI-8491,2026-10-07 22:44,Palembang,Sumatera Selatan,90.2,154.4,2.23,24.6,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8492,2026-10-09 10:44,Semarang,Jawa Tengah,75.2,130.4,0.62,33.6,104,Unhealthy for Sensitive Groups,PM10
+AQI-8493,2026-10-13 14:44,Bandung,Jawa Barat,22.4,38.7,1.92,11.6,31,Good,PM10
+AQI-8494,2026-09-27 14:44,Makassar,Sulawesi Selatan,55.7,88.3,2.94,45.0,63,Moderate,NO2
+AQI-8495,2026-09-25 16:44,Surabaya,Jawa Timur,57.2,96.7,1.43,37.9,78,Moderate,PM10
+AQI-8496,2026-10-11 04:44,Makassar,Sulawesi Selatan,92.2,134.3,3.25,29.8,124,Unhealthy for Sensitive Groups,PM2.5
+AQI-8497,2026-10-09 15:44,Medan,Sumatera Utara,44.3,75.3,3.14,42.9,59,Moderate,PM2.5
+AQI-8498,2026-10-02 04:44,Bandung,Jawa Barat,41.5,50.4,2.3,29.5,50,Good,NO2
+AQI-8499,2026-10-03 11:44,Jakarta Pusat,DKI Jakarta,69.5,85.2,0.92,18.3,94,Moderate,PM10
+AQI-8500,2026-10-05 23:44,Bekasi,Jawa Barat,81.2,102.2,0.72,13.3,100,Moderate,PM2.5
+AQI-8501,2026-10-14 06:44,Palembang,Sumatera Selatan,84.7,136.6,1.97,23.7,98,Moderate,NO2
+AQI-8502,2026-10-15 16:44,Palembang,Sumatera Selatan,79.7,114.9,0.78,21.7,100,Moderate,PM2.5
+AQI-8503,2026-10-15 21:44,Tangerang,Banten,32.7,50.0,1.78,53.4,36,Good,PM2.5
+AQI-8504,2026-10-05 04:44,Bekasi,Jawa Barat,65.3,109.3,1.81,11.5,84,Moderate,PM2.5
+AQI-8505,2026-09-23 16:44,Depok,Jawa Barat,90.1,119.8,1.47,29.1,104,Unhealthy for Sensitive Groups,PM2.5
+AQI-8506,2026-09-24 06:44,Palembang,Sumatera Selatan,30.0,49.6,0.83,41.2,38,Good,PM10
+AQI-8507,2026-10-05 10:44,Tangerang,Banten,39.2,66.5,2.98,32.0,52,Moderate,PM2.5
+AQI-8508,2026-10-18 07:44,Bandung,Jawa Barat,104.5,158.4,2.13,39.3,115,Unhealthy for Sensitive Groups,PM10
+AQI-8509,2026-10-09 21:44,Tangerang,Banten,37.4,62.0,3.46,19.7,46,Good,CO
+AQI-8510,2026-10-14 05:44,Semarang,Jawa Tengah,35.4,49.6,1.09,27.7,44,Good,PM2.5
+AQI-8511,2026-09-22 06:44,Makassar,Sulawesi Selatan,59.9,76.4,0.57,48.5,81,Moderate,PM10
+AQI-8512,2026-10-12 15:44,Palembang,Sumatera Selatan,54.0,87.9,2.05,18.1,64,Moderate,PM2.5
+AQI-8513,2026-09-24 21:44,Medan,Sumatera Utara,107.6,135.9,1.36,19.0,121,Unhealthy for Sensitive Groups,PM2.5
+AQI-8514,2026-09-25 21:44,Depok,Jawa Barat,98.7,123.7,2.11,27.5,111,Unhealthy for Sensitive Groups,PM10
+AQI-8515,2026-09-23 20:44,Tangerang,Banten,52.7,75.7,1.64,17.2,59,Moderate,PM2.5
+AQI-8516,2026-10-08 14:44,Makassar,Sulawesi Selatan,51.6,91.6,0.8,22.2,61,Moderate,PM2.5
+AQI-8517,2026-09-27 15:44,Tangerang,Banten,16.7,24.9,1.33,36.5,22,Good,PM2.5
+AQI-8518,2026-09-20 21:44,Depok,Jawa Barat,97.7,133.5,2.46,22.2,110,Unhealthy for Sensitive Groups,PM2.5
+AQI-8519,2026-10-12 09:44,Depok,Jawa Barat,72.0,114.3,2.37,13.3,82,Moderate,PM2.5
+AQI-8520,2026-10-19 12:44,Jakarta Pusat,DKI Jakarta,25.4,44.5,0.77,14.5,31,Good,NO2
+AQI-8521,2026-10-10 15:44,Depok,Jawa Barat,52.9,79.7,1.25,21.5,64,Moderate,PM2.5
+AQI-8522,2026-10-01 18:44,Jakarta Pusat,DKI Jakarta,55.6,68.2,2.21,12.9,71,Moderate,CO
+AQI-8523,2026-10-05 23:44,Bekasi,Jawa Barat,18.4,32.3,1.7,28.2,20,Good,PM10
+AQI-8524,2026-10-04 08:44,Medan,Sumatera Utara,76.5,118.9,2.93,53.3,105,Unhealthy for Sensitive Groups,PM10
+AQI-8525,2026-10-10 18:44,Jakarta Pusat,DKI Jakarta,81.9,112.2,1.96,21.3,113,Unhealthy for Sensitive Groups,CO
+AQI-8526,2026-10-03 12:44,Depok,Jawa Barat,18.3,25.2,1.26,34.3,21,Good,PM2.5
+AQI-8527,2026-09-25 04:44,Bekasi,Jawa Barat,74.6,111.9,1.28,31.3,90,Moderate,PM2.5
+AQI-8528,2026-10-12 23:44,Makassar,Sulawesi Selatan,34.1,59.2,3.44,10.6,39,Good,PM2.5
+AQI-8529,2026-10-15 15:44,Bandung,Jawa Barat,100.8,146.0,2.13,53.3,125,Unhealthy for Sensitive Groups,NO2
+AQI-8530,2026-10-16 02:44,Depok,Jawa Barat,33.3,44.3,0.63,41.6,39,Good,PM2.5
+AQI-8531,2026-09-28 11:44,Medan,Sumatera Utara,77.5,104.0,2.0,14.6,86,Moderate,PM10
+AQI-8532,2026-09-27 13:44,Tangerang,Banten,49.1,64.5,3.27,31.0,57,Moderate,PM2.5
+AQI-8533,2026-10-17 12:44,Semarang,Jawa Tengah,28.8,42.3,1.58,14.5,36,Good,PM2.5
+AQI-8534,2026-10-16 23:44,Medan,Sumatera Utara,30.9,44.4,2.38,19.1,41,Good,PM2.5
+AQI-8535,2026-09-29 07:44,Jakarta Pusat,DKI Jakarta,68.0,112.1,2.04,14.1,94,Moderate,PM2.5
+AQI-8536,2026-10-08 07:44,Surabaya,Jawa Timur,80.4,141.6,2.45,24.7,98,Moderate,CO
+AQI-8537,2026-09-27 14:44,Jakarta Pusat,DKI Jakarta,26.8,44.3,2.91,50.5,35,Good,PM10
+AQI-8538,2026-09-24 05:44,Makassar,Sulawesi Selatan,48.1,69.3,2.72,31.9,63,Moderate,CO
+AQI-8539,2026-09-28 15:44,Depok,Jawa Barat,57.2,69.9,3.0,50.0,74,Moderate,PM2.5
+AQI-8540,2026-09-27 17:44,Jakarta Pusat,DKI Jakarta,76.4,105.1,2.47,35.5,100,Moderate,PM10
+AQI-8541,2026-10-13 13:44,Jakarta Pusat,DKI Jakarta,98.3,172.2,2.25,31.1,116,Unhealthy for Sensitive Groups,PM2.5
+AQI-8542,2026-10-14 07:44,Jakarta Pusat,DKI Jakarta,60.5,92.3,3.46,34.7,67,Moderate,NO2
+AQI-8543,2026-09-27 17:44,Medan,Sumatera Utara,66.8,110.7,2.03,27.3,83,Moderate,PM2.5
+AQI-8544,2026-09-23 16:44,Surabaya,Jawa Timur,81.6,104.2,0.82,36.9,90,Moderate,NO2
+AQI-8545,2026-09-25 09:44,Makassar,Sulawesi Selatan,63.5,102.6,0.59,52.1,80,Moderate,PM2.5
+AQI-8546,2026-09-30 00:44,Palembang,Sumatera Selatan,71.4,97.9,1.81,14.4,81,Moderate,PM2.5
+AQI-8547,2026-10-10 03:44,Bandung,Jawa Barat,95.2,119.1,1.86,38.4,125,Unhealthy for Sensitive Groups,PM2.5
+AQI-8548,2026-10-05 08:44,Surabaya,Jawa Timur,44.5,62.9,3.46,51.8,53,Moderate,PM2.5
+AQI-8549,2026-10-05 23:44,Depok,Jawa Barat,78.0,106.6,1.71,54.7,89,Moderate,PM2.5
+AQI-8550,2026-10-10 07:44,Bekasi,Jawa Barat,28.5,50.8,1.67,24.0,36,Good,PM2.5
+AQI-8551,2026-10-10 06:44,Depok,Jawa Barat,20.9,32.9,1.24,36.6,26,Good,PM2.5
+AQI-8552,2026-09-26 09:44,Surabaya,Jawa Timur,20.9,28.1,0.73,40.2,27,Good,CO
+AQI-8553,2026-10-01 02:44,Makassar,Sulawesi Selatan,79.6,109.7,1.01,24.5,105,Unhealthy for Sensitive Groups,PM2.5
+AQI-8554,2026-10-03 22:44,Tangerang,Banten,41.9,73.3,1.86,28.6,53,Moderate,PM10
+AQI-8555,2026-09-25 22:44,Bekasi,Jawa Barat,26.5,34.3,2.27,12.7,32,Good,PM2.5
+AQI-8556,2026-10-12 08:44,Depok,Jawa Barat,94.1,115.5,1.18,49.9,114,Unhealthy for Sensitive Groups,PM2.5
+AQI-8557,2026-09-26 17:44,Palembang,Sumatera Selatan,18.9,28.4,1.98,33.2,21,Good,PM10
+AQI-8558,2026-10-10 12:44,Surabaya,Jawa Timur,76.5,131.4,1.23,50.5,90,Moderate,PM10
+AQI-8559,2026-10-11 10:44,Semarang,Jawa Tengah,31.2,55.9,1.37,48.9,35,Good,PM2.5
+AQI-8560,2026-09-22 17:44,Depok,Jawa Barat,95.7,150.7,3.16,44.3,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8561,2026-10-11 15:44,Bekasi,Jawa Barat,60.2,89.3,0.61,19.7,68,Moderate,PM2.5
+AQI-8562,2026-10-08 21:44,Semarang,Jawa Tengah,39.4,66.4,2.97,40.4,52,Moderate,PM2.5
+AQI-8563,2026-09-27 09:44,Bekasi,Jawa Barat,108.3,135.9,1.09,32.2,126,Unhealthy for Sensitive Groups,PM10
+AQI-8564,2026-09-28 18:44,Bandung,Jawa Barat,106.0,169.7,0.98,26.6,119,Unhealthy for Sensitive Groups,PM2.5
+AQI-8565,2026-10-19 08:44,Bandung,Jawa Barat,51.8,76.7,0.93,16.0,62,Moderate,PM10
+AQI-8566,2026-10-18 10:44,Tangerang,Banten,94.1,143.0,1.72,13.6,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8567,2026-10-10 07:44,Makassar,Sulawesi Selatan,65.0,88.2,0.64,11.3,77,Moderate,PM2.5
+AQI-8568,2026-10-07 14:44,Palembang,Sumatera Selatan,16.6,29.8,1.2,22.8,20,Good,PM2.5
+AQI-8569,2026-10-10 04:44,Medan,Sumatera Utara,47.4,78.3,3.05,13.9,54,Moderate,CO
+AQI-8570,2026-09-26 01:44,Jakarta Pusat,DKI Jakarta,92.5,124.3,0.51,16.0,128,Unhealthy for Sensitive Groups,PM10
+AQI-8571,2026-10-04 19:44,Palembang,Sumatera Selatan,75.7,95.2,2.88,48.2,93,Moderate,NO2
+AQI-8572,2026-09-28 19:44,Palembang,Sumatera Selatan,100.7,147.1,3.04,51.7,130,Unhealthy for Sensitive Groups,CO
+AQI-8573,2026-10-17 01:44,Semarang,Jawa Tengah,51.4,74.0,0.61,24.3,64,Moderate,PM10
+AQI-8574,2026-09-23 05:44,Jakarta Pusat,DKI Jakarta,86.0,138.3,3.44,38.8,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8575,2026-09-20 17:44,Bandung,Jawa Barat,99.4,121.0,1.22,34.9,136,Unhealthy for Sensitive Groups,PM2.5
+AQI-8576,2026-09-27 05:44,Semarang,Jawa Tengah,47.8,60.5,1.57,46.1,65,Moderate,PM10
+AQI-8577,2026-09-25 14:44,Jakarta Pusat,DKI Jakarta,51.9,92.6,3.16,53.0,62,Moderate,PM10
+AQI-8578,2026-10-12 00:44,Surabaya,Jawa Timur,76.4,112.1,1.53,37.3,84,Moderate,PM2.5
+AQI-8579,2026-09-29 02:44,Depok,Jawa Barat,46.8,82.4,0.52,36.1,62,Moderate,PM2.5
+AQI-8580,2026-10-19 02:44,Tangerang,Banten,85.7,110.5,1.65,18.7,101,Unhealthy for Sensitive Groups,NO2
+AQI-8581,2026-10-19 20:44,Semarang,Jawa Tengah,54.3,97.6,1.95,10.0,71,Moderate,PM2.5
+AQI-8582,2026-09-23 12:44,Surabaya,Jawa Timur,104.1,156.5,0.86,53.2,138,Unhealthy for Sensitive Groups,NO2
+AQI-8583,2026-10-13 19:44,Bekasi,Jawa Barat,16.1,22.5,3.26,41.7,21,Good,PM2.5
+AQI-8584,2026-10-06 02:44,Tangerang,Banten,106.2,172.9,2.94,46.3,145,Unhealthy for Sensitive Groups,PM2.5
+AQI-8585,2026-10-10 22:44,Jakarta Pusat,DKI Jakarta,83.0,125.0,2.97,42.4,94,Moderate,PM2.5
+AQI-8586,2026-10-10 20:44,Surabaya,Jawa Timur,89.3,119.6,2.95,47.4,106,Unhealthy for Sensitive Groups,PM2.5
+AQI-8587,2026-10-10 15:44,Jakarta Pusat,DKI Jakarta,37.3,45.5,3.23,16.7,45,Good,PM2.5
+AQI-8588,2026-10-13 02:44,Surabaya,Jawa Timur,81.1,136.6,0.88,34.6,97,Moderate,PM10
+AQI-8589,2026-10-13 02:44,Jakarta Pusat,DKI Jakarta,86.9,118.4,1.02,47.9,114,Unhealthy for Sensitive Groups,PM10
+AQI-8590,2026-10-04 19:44,Depok,Jawa Barat,84.5,106.8,1.26,30.4,118,Unhealthy for Sensitive Groups,PM10
+AQI-8591,2026-09-24 12:44,Makassar,Sulawesi Selatan,60.0,84.3,1.09,42.9,72,Moderate,CO
+AQI-8592,2026-09-25 09:44,Semarang,Jawa Tengah,42.9,71.6,2.48,53.0,57,Moderate,PM2.5
+AQI-8593,2026-10-04 16:44,Jakarta Pusat,DKI Jakarta,24.2,35.7,3.22,39.2,30,Good,PM10
+AQI-8594,2026-10-17 06:44,Bandung,Jawa Barat,105.7,183.7,2.64,13.4,121,Unhealthy for Sensitive Groups,CO
+AQI-8595,2026-09-24 19:44,Bekasi,Jawa Barat,57.1,98.9,2.19,43.5,63,Moderate,PM2.5
+AQI-8596,2026-10-01 11:44,Surabaya,Jawa Timur,33.3,56.6,1.97,11.5,37,Good,PM2.5
+AQI-8597,2026-09-24 11:44,Tangerang,Banten,102.0,129.9,2.34,26.1,140,Unhealthy for Sensitive Groups,PM2.5
+AQI-8598,2026-09-23 17:44,Bekasi,Jawa Barat,54.4,92.5,2.04,23.8,74,Moderate,PM10
+AQI-8599,2026-10-02 05:44,Tangerang,Banten,33.1,59.1,2.76,51.0,39,Good,PM2.5
+AQI-8600,2026-09-26 05:44,Semarang,Jawa Tengah,22.6,32.0,2.78,11.8,26,Good,CO
+AQI-8601,2026-10-16 18:44,Bekasi,Jawa Barat,81.6,126.3,1.63,16.7,94,Moderate,CO
+AQI-8602,2026-10-03 21:44,Bekasi,Jawa Barat,51.5,78.1,1.04,44.1,59,Moderate,PM2.5
+AQI-8603,2026-09-28 16:44,Tangerang,Banten,98.6,156.0,3.05,36.1,131,Unhealthy for Sensitive Groups,CO
+AQI-8604,2026-09-20 20:44,Medan,Sumatera Utara,38.8,59.7,1.4,21.1,48,Good,PM10
+AQI-8605,2026-09-20 17:44,Bandung,Jawa Barat,45.6,78.4,2.65,27.8,53,Moderate,PM10
+AQI-8606,2026-09-27 20:44,Palembang,Sumatera Selatan,22.1,33.2,3.28,16.3,29,Good,PM2.5
+AQI-8607,2026-09-24 21:44,Palembang,Sumatera Selatan,106.1,133.1,3.22,44.3,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8608,2026-09-21 16:44,Medan,Sumatera Utara,69.6,94.5,1.5,31.1,85,Moderate,CO
+AQI-8609,2026-10-13 18:44,Tangerang,Banten,17.4,24.1,3.31,13.7,22,Good,PM10
+AQI-8610,2026-10-13 01:44,Medan,Sumatera Utara,77.4,109.5,1.17,23.7,103,Unhealthy for Sensitive Groups,PM10
+AQI-8611,2026-10-11 17:44,Palembang,Sumatera Selatan,33.1,44.0,2.86,17.4,46,Good,NO2
+AQI-8612,2026-09-28 08:44,Tangerang,Banten,84.4,138.7,1.75,25.0,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-8613,2026-10-17 07:44,Bandung,Jawa Barat,47.7,79.8,2.08,53.3,57,Moderate,CO
+AQI-8614,2026-10-16 11:44,Surabaya,Jawa Timur,46.9,75.8,1.6,43.7,58,Moderate,PM2.5
+AQI-8615,2026-10-01 23:44,Bandung,Jawa Barat,20.4,30.1,0.68,20.8,27,Good,PM2.5
+AQI-8616,2026-10-19 21:44,Depok,Jawa Barat,93.9,156.6,1.82,16.4,123,Unhealthy for Sensitive Groups,PM2.5
+AQI-8617,2026-10-12 20:44,Jakarta Pusat,DKI Jakarta,29.5,49.0,0.83,44.9,39,Good,PM10
+AQI-8618,2026-10-14 07:44,Jakarta Pusat,DKI Jakarta,69.7,112.0,3.31,49.5,89,Moderate,PM2.5
+AQI-8619,2026-09-20 12:44,Semarang,Jawa Tengah,91.8,164.4,2.91,23.3,106,Unhealthy for Sensitive Groups,PM10
+AQI-8620,2026-09-20 07:44,Makassar,Sulawesi Selatan,66.8,90.2,0.87,43.0,83,Moderate,PM2.5
+AQI-8621,2026-10-06 18:44,Tangerang,Banten,62.4,94.2,2.05,10.2,79,Moderate,PM2.5
+AQI-8622,2026-10-15 20:44,Bekasi,Jawa Barat,37.6,50.1,2.76,31.1,47,Good,PM10
+AQI-8623,2026-09-25 18:44,Depok,Jawa Barat,60.0,89.6,3.46,10.3,69,Moderate,PM2.5
+AQI-8624,2026-09-27 19:44,Bandung,Jawa Barat,95.8,143.3,3.05,32.6,127,Unhealthy for Sensitive Groups,PM2.5
+AQI-8625,2026-09-28 12:44,Bandung,Jawa Barat,44.6,54.1,2.86,38.7,61,Moderate,PM2.5
+AQI-8626,2026-10-05 03:44,Jakarta Pusat,DKI Jakarta,97.3,119.2,1.18,20.4,114,Unhealthy for Sensitive Groups,PM2.5
+AQI-8627,2026-10-16 03:44,Bekasi,Jawa Barat,22.0,29.4,1.51,19.3,30,Good,PM2.5
+AQI-8628,2026-10-18 08:44,Semarang,Jawa Tengah,65.0,103.4,2.12,47.5,73,Moderate,PM10
+AQI-8629,2026-10-13 14:44,Bandung,Jawa Barat,92.9,122.2,2.05,30.4,114,Unhealthy for Sensitive Groups,PM10
+AQI-8630,2026-10-10 13:44,Jakarta Pusat,DKI Jakarta,93.6,114.6,3.36,45.3,129,Unhealthy for Sensitive Groups,PM2.5
+AQI-8631,2026-09-29 14:44,Bandung,Jawa Barat,109.8,147.9,2.89,23.2,151,Unhealthy,PM10
+AQI-8632,2026-10-07 14:44,Jakarta Pusat,DKI Jakarta,87.7,106.0,0.73,20.6,97,Moderate,PM2.5
+AQI-8633,2026-10-10 14:44,Surabaya,Jawa Timur,91.2,139.6,1.71,30.8,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8634,2026-10-04 00:44,Bandung,Jawa Barat,100.3,149.8,1.52,41.5,129,Unhealthy for Sensitive Groups,NO2
+AQI-8635,2026-09-29 06:44,Bekasi,Jawa Barat,17.6,27.1,1.02,33.0,21,Good,PM2.5
+AQI-8636,2026-10-01 00:44,Bandung,Jawa Barat,31.2,55.5,3.35,42.2,37,Good,PM2.5
+AQI-8637,2026-10-18 07:44,Depok,Jawa Barat,66.3,91.1,0.93,20.5,83,Moderate,PM2.5
+AQI-8638,2026-10-01 15:44,Bandung,Jawa Barat,89.0,142.0,0.58,47.2,98,Moderate,PM2.5
+AQI-8639,2026-09-30 13:44,Bekasi,Jawa Barat,94.6,143.1,2.94,35.3,124,Unhealthy for Sensitive Groups,PM2.5
+AQI-8640,2026-10-15 05:44,Palembang,Sumatera Selatan,97.1,168.7,0.79,40.6,132,Unhealthy for Sensitive Groups,PM10
+AQI-8641,2026-10-11 09:44,Jakarta Pusat,DKI Jakarta,80.1,125.0,1.58,36.9,93,Moderate,PM2.5
+AQI-8642,2026-09-30 14:44,Medan,Sumatera Utara,60.9,104.0,1.56,31.8,70,Moderate,NO2
+AQI-8643,2026-09-30 03:44,Tangerang,Banten,48.6,62.2,1.51,35.9,57,Moderate,PM2.5
+AQI-8644,2026-09-23 04:44,Tangerang,Banten,45.0,61.7,1.96,26.1,56,Moderate,CO
+AQI-8645,2026-10-05 09:44,Bekasi,Jawa Barat,60.6,79.5,1.2,41.6,72,Moderate,NO2
+AQI-8646,2026-10-07 08:44,Jakarta Pusat,DKI Jakarta,109.3,171.2,1.86,41.9,125,Unhealthy for Sensitive Groups,CO
+AQI-8647,2026-09-22 02:44,Makassar,Sulawesi Selatan,51.7,82.1,3.03,41.8,69,Moderate,NO2
+AQI-8648,2026-10-10 14:44,Depok,Jawa Barat,16.4,21.1,2.75,31.8,22,Good,PM10
+AQI-8649,2026-10-04 07:44,Jakarta Pusat,DKI Jakarta,92.1,140.7,0.66,18.6,128,Unhealthy for Sensitive Groups,PM2.5
+AQI-8650,2026-09-20 23:44,Tangerang,Banten,34.6,60.4,1.27,35.2,45,Good,PM2.5
+AQI-8651,2026-10-18 09:44,Bandung,Jawa Barat,76.1,135.0,2.14,15.7,88,Moderate,NO2
+AQI-8652,2026-09-23 02:44,Bekasi,Jawa Barat,75.0,122.9,3.41,49.1,97,Moderate,PM2.5
+AQI-8653,2026-09-22 01:44,Bekasi,Jawa Barat,25.0,41.5,0.85,14.4,27,Good,PM2.5
+AQI-8654,2026-10-16 22:44,Bekasi,Jawa Barat,100.3,135.1,0.57,38.2,131,Unhealthy for Sensitive Groups,PM2.5
+AQI-8655,2026-10-11 21:44,Surabaya,Jawa Timur,54.2,73.3,2.56,25.1,72,Moderate,PM10
+AQI-8656,2026-10-06 16:44,Medan,Sumatera Utara,76.6,119.0,3.44,46.1,107,Unhealthy for Sensitive Groups,PM10
+AQI-8657,2026-10-14 18:44,Tangerang,Banten,23.6,41.5,3.42,17.1,29,Good,PM2.5
+AQI-8658,2026-09-29 17:44,Makassar,Sulawesi Selatan,102.2,128.5,2.15,18.3,128,Unhealthy for Sensitive Groups,CO
+AQI-8659,2026-09-22 02:44,Bekasi,Jawa Barat,97.4,152.7,2.83,52.4,107,Unhealthy for Sensitive Groups,PM2.5
+AQI-8660,2026-10-19 15:44,Palembang,Sumatera Selatan,65.8,100.3,0.96,33.9,76,Moderate,PM10
+AQI-8661,2026-10-10 23:44,Palembang,Sumatera Selatan,58.4,84.7,1.03,30.6,68,Moderate,PM2.5
+AQI-8662,2026-10-17 10:44,Depok,Jawa Barat,55.1,97.4,0.64,53.2,76,Moderate,PM2.5
+AQI-8663,2026-10-13 20:44,Palembang,Sumatera Selatan,66.6,103.7,0.77,16.7,74,Moderate,PM2.5
+AQI-8664,2026-10-09 17:44,Bekasi,Jawa Barat,51.0,81.4,1.32,13.6,67,Moderate,PM10
+AQI-8665,2026-10-15 00:44,Semarang,Jawa Tengah,95.6,144.7,2.34,24.1,106,Unhealthy for Sensitive Groups,PM2.5
+AQI-8666,2026-10-06 15:44,Tangerang,Banten,28.1,46.8,3.4,27.0,35,Good,PM10
+AQI-8667,2026-10-14 04:44,Semarang,Jawa Tengah,59.9,73.6,2.95,29.7,72,Moderate,PM2.5
+AQI-8668,2026-09-24 07:44,Semarang,Jawa Tengah,22.6,36.9,2.49,13.2,30,Good,PM2.5
+AQI-8669,2026-10-01 21:44,Bandung,Jawa Barat,58.4,74.7,2.83,29.0,76,Moderate,PM2.5
+AQI-8670,2026-10-04 20:44,Palembang,Sumatera Selatan,47.6,76.6,2.59,26.4,62,Moderate,PM2.5
+AQI-8671,2026-10-04 05:44,Palembang,Sumatera Selatan,73.0,120.1,2.57,38.4,96,Moderate,PM2.5
+AQI-8672,2026-10-11 01:44,Surabaya,Jawa Timur,68.1,95.9,1.04,35.0,87,Moderate,PM2.5
+AQI-8673,2026-10-05 01:44,Semarang,Jawa Tengah,18.5,29.4,1.18,18.4,22,Good,PM2.5
+AQI-8674,2026-10-01 10:44,Tangerang,Banten,36.7,64.3,2.85,45.3,41,Good,NO2
+AQI-8675,2026-10-02 01:44,Makassar,Sulawesi Selatan,78.5,118.0,1.52,14.1,106,Unhealthy for Sensitive Groups,CO
+AQI-8676,2026-10-14 19:44,Semarang,Jawa Tengah,75.5,101.1,0.86,37.7,97,Moderate,PM2.5
+AQI-8677,2026-09-29 15:44,Palembang,Sumatera Selatan,62.8,98.0,1.62,51.0,83,Moderate,PM10
+AQI-8678,2026-10-16 21:44,Depok,Jawa Barat,43.7,70.6,1.69,16.5,56,Moderate,PM2.5
+AQI-8679,2026-10-13 00:44,Makassar,Sulawesi Selatan,58.4,103.6,0.65,33.1,68,Moderate,NO2
+AQI-8680,2026-10-18 12:44,Makassar,Sulawesi Selatan,82.7,132.0,3.32,12.5,109,Unhealthy for Sensitive Groups,PM2.5
+AQI-8681,2026-10-07 03:44,Medan,Sumatera Utara,45.2,73.3,0.74,36.1,58,Moderate,PM2.5
+AQI-8682,2026-10-18 16:44,Bekasi,Jawa Barat,50.0,86.8,0.69,39.7,64,Moderate,PM2.5
+AQI-8683,2026-10-07 00:44,Jakarta Pusat,DKI Jakarta,37.5,61.4,3.29,18.0,48,Good,PM10
+AQI-8684,2026-10-03 21:44,Medan,Sumatera Utara,76.0,105.6,2.39,48.8,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-8685,2026-10-04 03:44,Jakarta Pusat,DKI Jakarta,23.1,30.5,0.57,40.3,29,Good,PM10
+AQI-8686,2026-09-21 12:44,Makassar,Sulawesi Selatan,97.8,148.3,2.56,43.3,132,Unhealthy for Sensitive Groups,PM10
+AQI-8687,2026-10-14 12:44,Depok,Jawa Barat,34.2,41.6,2.43,53.2,47,Good,PM2.5
+AQI-8688,2026-10-15 02:44,Bandung,Jawa Barat,65.9,91.6,2.93,52.2,90,Moderate,PM2.5
+AQI-8689,2026-09-25 22:44,Bandung,Jawa Barat,95.7,145.4,3.2,25.3,114,Unhealthy for Sensitive Groups,PM2.5
+AQI-8690,2026-09-20 04:44,Tangerang,Banten,74.7,134.0,1.91,28.9,85,Moderate,PM2.5
+AQI-8691,2026-09-20 12:44,Palembang,Sumatera Selatan,41.3,55.4,1.14,36.9,45,Good,PM10
+AQI-8692,2026-10-10 10:44,Bekasi,Jawa Barat,85.2,147.8,0.91,27.4,108,Unhealthy for Sensitive Groups,PM2.5
+AQI-8693,2026-10-10 01:44,Bandung,Jawa Barat,67.6,113.5,3.29,11.5,79,Moderate,PM2.5
+AQI-8694,2026-10-17 18:44,Bandung,Jawa Barat,95.2,153.5,1.8,13.5,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8695,2026-09-28 17:44,Tangerang,Banten,101.4,141.6,2.46,39.7,126,Unhealthy for Sensitive Groups,NO2
+AQI-8696,2026-10-07 03:44,Bekasi,Jawa Barat,16.2,24.5,2.47,20.6,22,Good,PM2.5
+AQI-8697,2026-10-09 20:44,Medan,Sumatera Utara,42.7,75.5,2.78,11.7,50,Good,NO2
+AQI-8698,2026-09-30 04:44,Semarang,Jawa Tengah,87.8,106.8,2.2,46.3,111,Unhealthy for Sensitive Groups,PM10
+AQI-8699,2026-09-27 16:44,Semarang,Jawa Tengah,86.7,133.7,2.43,41.4,104,Unhealthy for Sensitive Groups,PM10
+AQI-8700,2026-10-09 03:44,Bandung,Jawa Barat,66.1,81.1,0.99,46.7,88,Moderate,PM2.5
+AQI-8701,2026-09-27 09:44,Makassar,Sulawesi Selatan,97.1,130.9,3.02,24.5,111,Unhealthy for Sensitive Groups,PM2.5
+AQI-8702,2026-09-24 01:44,Palembang,Sumatera Selatan,98.4,134.8,2.13,53.0,124,Unhealthy for Sensitive Groups,PM2.5
+AQI-8703,2026-09-20 17:44,Tangerang,Banten,43.2,58.9,3.21,48.8,49,Good,PM2.5
+AQI-8704,2026-10-16 17:44,Makassar,Sulawesi Selatan,86.8,122.4,0.67,13.5,109,Unhealthy for Sensitive Groups,PM10
+AQI-8705,2026-10-19 05:44,Palembang,Sumatera Selatan,85.3,124.3,1.74,51.7,105,Unhealthy for Sensitive Groups,PM2.5
+AQI-8706,2026-10-16 05:44,Surabaya,Jawa Timur,90.5,158.0,1.26,42.4,112,Unhealthy for Sensitive Groups,PM2.5
+AQI-8707,2026-10-04 20:44,Makassar,Sulawesi Selatan,25.1,42.7,3.24,47.3,31,Good,PM10
+AQI-8708,2026-10-11 18:44,Semarang,Jawa Tengah,98.4,124.8,0.81,30.0,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-8709,2026-10-07 20:44,Surabaya,Jawa Timur,98.8,144.2,2.18,14.7,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-8710,2026-10-15 05:44,Bandung,Jawa Barat,74.7,95.3,0.74,36.1,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-8711,2026-10-03 19:44,Bekasi,Jawa Barat,32.6,40.4,1.86,50.1,43,Good,CO
+AQI-8712,2026-10-01 06:44,Bandung,Jawa Barat,43.4,63.8,1.44,28.1,50,Good,PM2.5
+AQI-8713,2026-10-11 09:44,Jakarta Pusat,DKI Jakarta,38.1,58.1,3.46,17.9,52,Moderate,PM10
+AQI-8714,2026-10-18 10:44,Makassar,Sulawesi Selatan,97.7,137.3,3.34,48.1,124,Unhealthy for Sensitive Groups,PM2.5
+AQI-8715,2026-09-28 10:44,Bandung,Jawa Barat,74.8,126.0,1.94,31.6,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-8716,2026-10-06 02:44,Jakarta Pusat,DKI Jakarta,96.5,129.1,1.59,43.2,133,Unhealthy for Sensitive Groups,PM2.5
+AQI-8717,2026-09-24 22:44,Bekasi,Jawa Barat,78.9,139.1,1.85,20.9,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8718,2026-10-15 02:44,Tangerang,Banten,102.9,172.7,2.11,42.2,118,Unhealthy for Sensitive Groups,PM10
+AQI-8719,2026-09-22 03:44,Makassar,Sulawesi Selatan,30.4,37.4,1.37,38.8,41,Good,CO
+AQI-8720,2026-09-23 12:44,Bekasi,Jawa Barat,31.8,48.9,2.11,42.1,38,Good,PM2.5
+AQI-8721,2026-09-30 07:44,Surabaya,Jawa Timur,67.4,100.1,3.46,38.7,77,Moderate,PM10
+AQI-8722,2026-10-10 21:44,Tangerang,Banten,68.4,85.5,2.5,30.9,93,Moderate,NO2
+AQI-8723,2026-09-22 02:44,Bandung,Jawa Barat,99.4,145.7,2.53,33.8,134,Unhealthy for Sensitive Groups,PM2.5
+AQI-8724,2026-10-02 15:44,Jakarta Pusat,DKI Jakarta,109.0,155.1,3.49,39.9,119,Unhealthy for Sensitive Groups,PM10
+AQI-8725,2026-09-25 05:44,Semarang,Jawa Tengah,65.5,103.9,0.53,33.7,72,Moderate,PM10
+AQI-8726,2026-09-28 10:44,Palembang,Sumatera Selatan,34.6,47.5,1.4,36.4,40,Good,PM2.5
+AQI-8727,2026-09-27 22:44,Surabaya,Jawa Timur,99.2,125.4,2.5,43.7,112,Unhealthy for Sensitive Groups,PM2.5
+AQI-8728,2026-10-10 09:44,Jakarta Pusat,DKI Jakarta,44.6,75.5,2.63,18.9,57,Moderate,PM2.5
+AQI-8729,2026-10-18 16:44,Depok,Jawa Barat,37.1,52.6,1.0,36.9,44,Good,PM10
+AQI-8730,2026-09-30 09:44,Palembang,Sumatera Selatan,83.1,104.9,3.39,10.7,102,Unhealthy for Sensitive Groups,CO
+AQI-8731,2026-10-03 05:44,Medan,Sumatera Utara,82.5,115.9,0.6,35.3,106,Unhealthy for Sensitive Groups,NO2
+AQI-8732,2026-10-12 04:44,Bandung,Jawa Barat,92.9,157.1,2.98,51.7,112,Unhealthy for Sensitive Groups,PM10
+AQI-8733,2026-10-07 23:44,Palembang,Sumatera Selatan,87.4,142.5,3.48,17.9,104,Unhealthy for Sensitive Groups,PM10
+AQI-8734,2026-09-30 16:44,Palembang,Sumatera Selatan,43.6,61.9,2.49,40.6,57,Moderate,PM2.5
+AQI-8735,2026-10-09 02:44,Surabaya,Jawa Timur,29.1,51.6,2.22,16.0,34,Good,PM10
+AQI-8736,2026-09-22 04:44,Bandung,Jawa Barat,44.4,71.9,2.95,22.6,49,Good,PM2.5
+AQI-8737,2026-09-25 18:44,Medan,Sumatera Utara,100.7,157.2,1.24,21.4,139,Unhealthy for Sensitive Groups,NO2
+AQI-8738,2026-10-18 07:44,Surabaya,Jawa Timur,104.1,147.5,3.22,51.2,135,Unhealthy for Sensitive Groups,PM2.5
+AQI-8739,2026-10-19 01:44,Jakarta Pusat,DKI Jakarta,92.8,160.9,0.99,41.8,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-8740,2026-09-30 18:44,Semarang,Jawa Tengah,64.7,109.9,2.58,37.5,87,Moderate,PM2.5
+AQI-8741,2026-10-16 04:44,Jakarta Pusat,DKI Jakarta,50.8,62.3,3.47,12.2,70,Moderate,PM10
+AQI-8742,2026-10-13 18:44,Bekasi,Jawa Barat,102.7,150.0,0.8,29.7,115,Unhealthy for Sensitive Groups,PM2.5
+AQI-8743,2026-10-16 21:44,Jakarta Pusat,DKI Jakarta,26.9,40.3,2.05,17.6,37,Good,PM2.5
+AQI-8744,2026-10-19 15:44,Jakarta Pusat,DKI Jakarta,106.3,158.1,1.9,13.9,144,Unhealthy for Sensitive Groups,PM2.5
+AQI-8745,2026-10-05 12:44,Depok,Jawa Barat,19.4,34.3,3.09,30.5,23,Good,PM2.5
+AQI-8746,2026-09-28 10:44,Depok,Jawa Barat,18.0,31.4,1.41,34.3,20,Good,PM2.5
+AQI-8747,2026-10-07 10:44,Palembang,Sumatera Selatan,34.6,48.7,1.78,27.8,45,Good,PM2.5
+AQI-8748,2026-09-30 01:44,Makassar,Sulawesi Selatan,72.3,124.9,2.3,34.7,92,Moderate,PM10
+AQI-8749,2026-09-21 10:44,Semarang,Jawa Tengah,78.7,123.8,2.34,16.3,104,Unhealthy for Sensitive Groups,PM2.5
+AQI-8750,2026-10-02 00:44,Palembang,Sumatera Selatan,32.8,57.8,0.57,20.0,36,Good,PM10
+AQI-8751,2026-10-14 20:44,Semarang,Jawa Tengah,41.3,62.5,3.21,43.6,55,Moderate,PM10
+AQI-8752,2026-09-27 10:44,Tangerang,Banten,74.6,120.3,1.66,43.9,94,Moderate,PM2.5
+AQI-8753,2026-10-16 14:44,Bekasi,Jawa Barat,93.8,125.9,2.33,31.1,118,Unhealthy for Sensitive Groups,PM2.5
+AQI-8754,2026-10-18 02:44,Tangerang,Banten,71.4,114.4,2.56,52.3,97,Moderate,PM10
+AQI-8755,2026-10-20 00:44,Makassar,Sulawesi Selatan,55.6,92.3,0.68,41.5,68,Moderate,PM10
+AQI-8756,2026-09-28 00:44,Depok,Jawa Barat,63.1,90.4,3.19,27.0,85,Moderate,PM10
+AQI-8757,2026-10-17 04:44,Bandung,Jawa Barat,75.6,106.3,2.23,29.0,98,Moderate,NO2
+AQI-8758,2026-10-15 15:44,Bekasi,Jawa Barat,44.7,61.9,1.72,45.0,58,Moderate,PM2.5
+AQI-8759,2026-09-26 03:44,Surabaya,Jawa Timur,40.6,49.3,2.31,21.0,45,Good,PM2.5
+AQI-8760,2026-10-09 05:44,Jakarta Pusat,DKI Jakarta,108.8,144.4,1.21,20.3,150,Unhealthy for Sensitive Groups,CO
+AQI-8761,2026-09-20 21:44,Makassar,Sulawesi Selatan,50.3,66.0,1.9,30.7,63,Moderate,CO
+AQI-8762,2026-09-27 05:44,Bekasi,Jawa Barat,42.0,50.4,2.79,41.0,49,Good,PM2.5
+AQI-8763,2026-10-04 03:44,Semarang,Jawa Tengah,16.2,25.9,3.26,13.4,20,Good,PM10
+AQI-8764,2026-10-10 02:44,Bekasi,Jawa Barat,83.9,142.3,1.5,15.0,94,Moderate,PM2.5
+AQI-8765,2026-10-18 10:44,Bekasi,Jawa Barat,25.9,32.1,2.7,36.5,29,Good,PM10
+AQI-8766,2026-10-14 17:44,Jakarta Pusat,DKI Jakarta,37.6,49.7,2.25,20.6,48,Good,PM10
+AQI-8767,2026-10-13 10:44,Semarang,Jawa Tengah,92.1,118.1,0.56,48.8,113,Unhealthy for Sensitive Groups,PM10
+AQI-8768,2026-10-01 10:44,Medan,Sumatera Utara,71.0,122.5,3.02,34.3,79,Moderate,PM10
+AQI-8769,2026-10-05 01:44,Surabaya,Jawa Timur,32.5,41.2,1.51,35.5,39,Good,PM2.5
+AQI-8770,2026-09-27 23:44,Medan,Sumatera Utara,76.5,117.2,1.58,35.6,98,Moderate,PM2.5
+AQI-8771,2026-10-12 20:44,Jakarta Pusat,DKI Jakarta,80.5,137.1,2.95,38.1,111,Unhealthy for Sensitive Groups,PM2.5
+AQI-8772,2026-10-05 06:44,Semarang,Jawa Tengah,81.6,102.6,2.66,25.9,99,Moderate,PM10
+AQI-8773,2026-09-23 07:44,Bekasi,Jawa Barat,25.6,39.6,3.15,25.5,34,Good,CO
+AQI-8774,2026-10-03 10:44,Medan,Sumatera Utara,25.1,31.5,2.99,11.7,27,Good,PM10
+AQI-8775,2026-10-18 19:44,Jakarta Pusat,DKI Jakarta,53.7,94.5,1.44,14.9,68,Moderate,PM10
+AQI-8776,2026-10-14 17:44,Medan,Sumatera Utara,109.6,190.7,2.32,43.0,142,Unhealthy for Sensitive Groups,PM2.5
+AQI-8777,2026-09-22 15:44,Medan,Sumatera Utara,91.8,135.1,3.39,16.1,118,Unhealthy for Sensitive Groups,NO2
+AQI-8778,2026-10-08 16:44,Tangerang,Banten,108.4,155.4,1.17,35.9,140,Unhealthy for Sensitive Groups,CO
+AQI-8779,2026-10-07 22:44,Palembang,Sumatera Selatan,15.8,23.5,0.81,12.8,18,Good,PM2.5
+AQI-8780,2026-09-27 18:44,Jakarta Pusat,DKI Jakarta,104.7,177.9,1.76,20.7,126,Unhealthy for Sensitive Groups,NO2
+AQI-8781,2026-10-19 21:44,Makassar,Sulawesi Selatan,32.9,45.8,2.14,42.8,42,Good,PM2.5
+AQI-8782,2026-09-27 04:44,Jakarta Pusat,DKI Jakarta,94.5,113.9,2.1,42.1,119,Unhealthy for Sensitive Groups,PM2.5
+AQI-8783,2026-10-11 04:44,Bandung,Jawa Barat,31.4,50.2,2.24,31.7,42,Good,CO
+AQI-8784,2026-10-09 15:44,Surabaya,Jawa Timur,69.4,117.9,1.81,29.7,80,Moderate,NO2
+AQI-8785,2026-10-11 21:44,Tangerang,Banten,108.3,159.6,1.38,37.1,141,Unhealthy for Sensitive Groups,PM10
+AQI-8786,2026-10-09 08:44,Palembang,Sumatera Selatan,55.3,98.3,0.97,24.4,62,Moderate,CO
+AQI-8787,2026-10-09 12:44,Tangerang,Banten,33.0,51.9,1.68,27.3,38,Good,PM2.5
+AQI-8788,2026-10-08 20:44,Semarang,Jawa Tengah,51.0,67.2,0.73,29.2,67,Moderate,PM2.5
+AQI-8789,2026-09-27 15:44,Jakarta Pusat,DKI Jakarta,26.3,46.7,3.48,53.1,34,Good,CO
+AQI-8790,2026-10-16 10:44,Tangerang,Banten,52.9,64.1,1.58,35.2,61,Moderate,NO2
+AQI-8791,2026-09-23 10:44,Jakarta Pusat,DKI Jakarta,79.3,114.8,2.61,13.9,95,Moderate,CO
+AQI-8792,2026-09-23 23:44,Medan,Sumatera Utara,100.6,149.1,0.96,54.3,116,Unhealthy for Sensitive Groups,PM2.5
+AQI-8793,2026-09-21 19:44,Palembang,Sumatera Selatan,29.1,47.2,2.93,26.4,36,Good,PM10
+AQI-8794,2026-09-29 13:44,Bekasi,Jawa Barat,70.5,86.9,1.13,45.2,93,Moderate,PM2.5
+AQI-8795,2026-09-22 13:44,Bekasi,Jawa Barat,92.6,160.7,1.75,32.3,129,Unhealthy for Sensitive Groups,PM2.5
+AQI-8796,2026-09-30 04:44,Makassar,Sulawesi Selatan,68.3,88.3,2.71,19.7,81,Moderate,PM2.5
+AQI-8797,2026-10-16 03:44,Surabaya,Jawa Timur,26.7,42.3,1.62,10.6,33,Good,PM10
+AQI-8798,2026-10-13 08:44,Medan,Sumatera Utara,49.0,76.0,3.44,16.1,61,Moderate,PM2.5
+AQI-8799,2026-09-21 00:44,Jakarta Pusat,DKI Jakarta,108.2,156.6,1.07,11.0,126,Unhealthy for Sensitive Groups,PM2.5
+AQI-8800,2026-10-01 22:44,Makassar,Sulawesi Selatan,59.3,78.7,1.03,46.7,72,Moderate,PM2.5
+AQI-8801,2026-09-29 21:44,Makassar,Sulawesi Selatan,23.2,32.8,1.66,45.2,26,Good,PM2.5
+AQI-8802,2026-10-01 17:44,Tangerang,Banten,73.3,100.8,1.54,10.4,92,Moderate,PM2.5
+AQI-8803,2026-09-29 20:44,Depok,Jawa Barat,93.3,137.6,0.88,31.5,126,Unhealthy for Sensitive Groups,PM10
+AQI-8804,2026-10-14 05:44,Surabaya,Jawa Timur,50.3,71.0,0.74,52.7,62,Moderate,CO
+AQI-8805,2026-10-13 11:44,Medan,Sumatera Utara,39.9,53.0,3.04,46.9,50,Good,PM10
+AQI-8806,2026-10-18 23:44,Semarang,Jawa Tengah,39.0,67.6,1.99,35.4,44,Good,PM2.5
+AQI-8807,2026-10-19 16:44,Makassar,Sulawesi Selatan,55.6,82.7,1.94,49.3,62,Moderate,PM2.5
+AQI-8808,2026-09-28 04:44,Bandung,Jawa Barat,51.3,81.3,1.13,13.7,57,Moderate,PM2.5
+AQI-8809,2026-10-08 21:44,Makassar,Sulawesi Selatan,46.9,64.3,1.02,44.2,53,Moderate,PM2.5
+AQI-8810,2026-10-18 11:44,Surabaya,Jawa Timur,87.4,148.4,3.13,48.3,113,Unhealthy for Sensitive Groups,PM2.5
+AQI-8811,2026-10-05 09:44,Tangerang,Banten,66.3,93.0,0.68,38.3,78,Moderate,PM2.5
+AQI-8812,2026-09-20 04:44,Tangerang,Banten,104.3,173.0,3.37,25.7,135,Unhealthy for Sensitive Groups,PM2.5
+AQI-8813,2026-09-25 17:44,Bekasi,Jawa Barat,99.7,158.3,2.74,14.7,116,Unhealthy for Sensitive Groups,NO2
+AQI-8814,2026-10-06 16:44,Jakarta Pusat,DKI Jakarta,26.0,45.7,2.86,39.1,31,Good,CO
+AQI-8815,2026-10-11 15:44,Depok,Jawa Barat,81.7,124.1,0.68,47.5,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8816,2026-09-26 07:44,Depok,Jawa Barat,49.0,71.9,3.33,12.5,56,Moderate,PM2.5
+AQI-8817,2026-10-12 20:44,Depok,Jawa Barat,25.5,44.0,3.08,25.5,30,Good,NO2
+AQI-8818,2026-10-14 23:44,Bandung,Jawa Barat,24.9,30.7,1.16,31.8,29,Good,PM2.5
+AQI-8819,2026-09-23 12:44,Palembang,Sumatera Selatan,29.1,40.6,2.62,26.9,34,Good,PM2.5
+AQI-8820,2026-09-29 23:44,Surabaya,Jawa Timur,97.9,171.8,1.89,17.3,128,Unhealthy for Sensitive Groups,PM10
+AQI-8821,2026-09-21 18:44,Tangerang,Banten,55.3,92.1,1.35,30.1,62,Moderate,PM2.5
+AQI-8822,2026-09-30 12:44,Depok,Jawa Barat,104.2,144.3,2.52,50.7,139,Unhealthy for Sensitive Groups,NO2
+AQI-8823,2026-09-28 08:44,Palembang,Sumatera Selatan,88.8,142.1,3.24,23.8,113,Unhealthy for Sensitive Groups,PM2.5
+AQI-8824,2026-09-27 17:44,Makassar,Sulawesi Selatan,85.3,146.4,2.89,21.5,112,Unhealthy for Sensitive Groups,PM10
+AQI-8825,2026-10-13 07:44,Semarang,Jawa Tengah,20.4,28.8,3.22,33.0,23,Good,PM2.5
+AQI-8826,2026-10-06 16:44,Bekasi,Jawa Barat,19.2,24.2,2.85,47.3,26,Good,PM2.5
+AQI-8827,2026-10-08 01:44,Tangerang,Banten,101.8,166.7,2.69,12.4,121,Unhealthy for Sensitive Groups,PM2.5
+AQI-8828,2026-10-18 03:44,Tangerang,Banten,76.6,105.8,3.01,16.9,93,Moderate,PM2.5
+AQI-8829,2026-09-29 04:44,Semarang,Jawa Tengah,84.1,140.3,3.07,20.7,108,Unhealthy for Sensitive Groups,PM2.5
+AQI-8830,2026-09-22 21:44,Semarang,Jawa Tengah,94.5,141.4,2.05,35.8,112,Unhealthy for Sensitive Groups,PM2.5
+AQI-8831,2026-10-12 05:44,Surabaya,Jawa Timur,50.9,82.3,2.11,32.9,58,Moderate,CO
+AQI-8832,2026-10-18 12:44,Surabaya,Jawa Timur,73.6,92.7,0.69,43.0,94,Moderate,PM10
+AQI-8833,2026-10-19 20:44,Semarang,Jawa Tengah,17.4,21.7,2.06,16.5,21,Good,PM10
+AQI-8834,2026-10-19 21:44,Jakarta Pusat,DKI Jakarta,15.4,21.1,3.01,27.8,20,Good,NO2
+AQI-8835,2026-10-06 15:44,Palembang,Sumatera Selatan,22.8,30.6,2.99,30.3,26,Good,PM2.5
+AQI-8836,2026-10-11 17:44,Bandung,Jawa Barat,83.5,133.2,0.65,22.9,114,Unhealthy for Sensitive Groups,PM10
+AQI-8837,2026-10-02 00:44,Bekasi,Jawa Barat,69.0,109.8,0.74,47.0,84,Moderate,PM2.5
+AQI-8838,2026-10-05 09:44,Jakarta Pusat,DKI Jakarta,59.6,103.7,2.08,25.0,79,Moderate,PM2.5
+AQI-8839,2026-10-11 20:44,Jakarta Pusat,DKI Jakarta,26.8,36.0,1.94,14.4,31,Good,CO
+AQI-8840,2026-09-20 16:44,Bandung,Jawa Barat,41.4,52.9,3.25,26.8,55,Moderate,CO
+AQI-8841,2026-10-10 14:44,Medan,Sumatera Utara,55.5,69.6,2.93,34.1,67,Moderate,NO2
+AQI-8842,2026-10-14 10:44,Surabaya,Jawa Timur,24.8,40.5,1.13,53.1,30,Good,CO
+AQI-8843,2026-10-19 13:44,Medan,Sumatera Utara,26.2,43.7,0.74,36.9,36,Good,PM2.5
+AQI-8844,2026-10-06 05:44,Jakarta Pusat,DKI Jakarta,99.7,151.8,0.61,45.6,136,Unhealthy for Sensitive Groups,PM10
+AQI-8845,2026-10-05 11:44,Bandung,Jawa Barat,67.7,108.0,3.2,45.3,78,Moderate,PM10
+AQI-8846,2026-09-20 23:44,Surabaya,Jawa Timur,92.5,119.6,2.69,15.5,109,Unhealthy for Sensitive Groups,PM2.5
+AQI-8847,2026-09-28 00:44,Palembang,Sumatera Selatan,66.8,98.6,3.18,43.5,89,Moderate,PM2.5
+AQI-8848,2026-09-24 16:44,Tangerang,Banten,87.2,108.0,1.55,38.7,118,Unhealthy for Sensitive Groups,PM10
+AQI-8849,2026-10-15 18:44,Depok,Jawa Barat,53.5,76.8,1.33,29.9,67,Moderate,PM2.5
+AQI-8850,2026-09-28 03:44,Tangerang,Banten,55.9,75.7,2.96,14.8,73,Moderate,PM2.5
+AQI-8851,2026-10-03 18:44,Bandung,Jawa Barat,57.2,78.0,1.0,49.4,65,Moderate,PM2.5
+AQI-8852,2026-10-13 07:44,Medan,Sumatera Utara,63.9,80.1,1.7,47.2,78,Moderate,PM2.5
+AQI-8853,2026-10-07 02:44,Palembang,Sumatera Selatan,38.5,60.9,2.35,23.4,46,Good,PM2.5
+AQI-8854,2026-10-19 12:44,Surabaya,Jawa Timur,98.0,120.0,2.46,20.8,115,Unhealthy for Sensitive Groups,PM10
+AQI-8855,2026-10-06 06:44,Palembang,Sumatera Selatan,73.4,88.1,1.27,50.8,81,Moderate,CO
+AQI-8856,2026-10-07 12:44,Palembang,Sumatera Selatan,74.7,109.6,1.03,45.1,95,Moderate,NO2
+AQI-8857,2026-09-29 07:44,Surabaya,Jawa Timur,54.0,79.4,2.08,39.1,60,Moderate,PM2.5
+AQI-8858,2026-09-28 16:44,Jakarta Pusat,DKI Jakarta,95.9,128.1,2.66,42.6,106,Unhealthy for Sensitive Groups,NO2
+AQI-8859,2026-10-03 20:44,Bandung,Jawa Barat,66.0,100.7,1.14,38.0,86,Moderate,PM2.5
+AQI-8860,2026-09-28 00:44,Jakarta Pusat,DKI Jakarta,89.3,118.5,1.36,13.0,106,Unhealthy for Sensitive Groups,NO2
+AQI-8861,2026-10-14 01:44,Tangerang,Banten,59.2,74.8,3.13,28.5,67,Moderate,PM10
+AQI-8862,2026-10-05 10:44,Bandung,Jawa Barat,65.2,86.7,1.47,35.8,82,Moderate,NO2
+AQI-8863,2026-10-01 20:44,Bekasi,Jawa Barat,53.5,68.5,0.93,19.3,67,Moderate,PM2.5
+AQI-8864,2026-10-03 05:44,Depok,Jawa Barat,75.6,113.3,2.7,41.3,87,Moderate,PM2.5
+AQI-8865,2026-10-12 01:44,Depok,Jawa Barat,75.5,99.0,1.46,55.0,92,Moderate,PM2.5
+AQI-8866,2026-10-14 14:44,Bekasi,Jawa Barat,45.1,54.6,1.59,25.5,56,Moderate,PM2.5
+AQI-8867,2026-10-04 00:44,Surabaya,Jawa Timur,85.6,132.5,0.99,14.9,104,Unhealthy for Sensitive Groups,PM10
+AQI-8868,2026-10-10 04:44,Depok,Jawa Barat,108.3,134.9,2.81,31.5,150,Unhealthy for Sensitive Groups,NO2
+AQI-8869,2026-10-17 01:44,Makassar,Sulawesi Selatan,57.0,87.4,1.85,47.4,69,Moderate,PM10
+AQI-8870,2026-09-22 01:44,Medan,Sumatera Utara,58.3,71.5,3.49,30.5,66,Moderate,PM2.5
+AQI-8871,2026-10-09 18:44,Palembang,Sumatera Selatan,60.4,80.4,1.74,10.0,77,Moderate,PM2.5
+AQI-8872,2026-09-24 17:44,Medan,Sumatera Utara,49.0,61.4,2.84,28.2,64,Moderate,PM10
+AQI-8873,2026-10-06 08:44,Bekasi,Jawa Barat,28.3,40.1,2.44,39.7,35,Good,PM2.5
+AQI-8874,2026-10-11 10:44,Medan,Sumatera Utara,84.1,108.0,3.06,45.0,111,Unhealthy for Sensitive Groups,PM10
+AQI-8875,2026-10-02 17:44,Makassar,Sulawesi Selatan,72.7,93.5,1.29,21.9,92,Moderate,PM2.5
+AQI-8876,2026-10-06 03:44,Jakarta Pusat,DKI Jakarta,56.5,95.2,3.2,40.4,63,Moderate,PM10
+AQI-8877,2026-10-15 01:44,Surabaya,Jawa Timur,79.1,139.2,1.96,20.9,99,Moderate,PM2.5
+AQI-8878,2026-09-20 23:44,Palembang,Sumatera Selatan,91.4,130.9,2.88,51.0,123,Unhealthy for Sensitive Groups,PM2.5
+AQI-8879,2026-10-01 09:44,Semarang,Jawa Tengah,96.9,166.6,2.43,42.9,107,Unhealthy for Sensitive Groups,NO2
+AQI-8880,2026-10-13 13:44,Makassar,Sulawesi Selatan,16.1,24.0,2.23,53.7,18,Good,PM2.5
+AQI-8881,2026-10-07 08:44,Depok,Jawa Barat,37.3,59.5,2.25,34.7,45,Good,PM2.5
+AQI-8882,2026-09-20 10:44,Bandung,Jawa Barat,86.6,142.1,2.64,43.2,104,Unhealthy for Sensitive Groups,CO
+AQI-8883,2026-10-15 12:44,Semarang,Jawa Tengah,75.0,117.9,2.53,37.5,97,Moderate,CO
+AQI-8884,2026-10-14 13:44,Palembang,Sumatera Selatan,21.6,32.6,3.46,38.8,29,Good,PM10
+AQI-8885,2026-10-06 11:44,Tangerang,Banten,103.2,128.1,0.58,34.1,142,Unhealthy for Sensitive Groups,NO2
+AQI-8886,2026-10-18 14:44,Surabaya,Jawa Timur,33.3,58.8,0.77,40.0,40,Good,PM2.5
+AQI-8887,2026-09-21 13:44,Semarang,Jawa Tengah,105.0,149.2,1.03,44.0,141,Unhealthy for Sensitive Groups,NO2
+AQI-8888,2026-10-08 15:44,Bekasi,Jawa Barat,45.0,57.2,1.73,13.9,53,Moderate,PM2.5
+AQI-8889,2026-10-17 07:44,Jakarta Pusat,DKI Jakarta,102.5,133.4,0.68,26.3,124,Unhealthy for Sensitive Groups,PM2.5
+AQI-8890,2026-10-15 15:44,Palembang,Sumatera Selatan,36.6,55.5,1.1,52.5,44,Good,NO2
+AQI-8891,2026-10-03 21:44,Medan,Sumatera Utara,35.8,63.5,1.07,49.9,44,Good,PM10
+AQI-8892,2026-10-03 18:44,Palembang,Sumatera Selatan,55.6,91.8,0.8,43.4,76,Moderate,NO2
+AQI-8893,2026-09-23 03:44,Semarang,Jawa Tengah,61.9,98.7,3.44,36.6,74,Moderate,NO2
+AQI-8894,2026-10-19 12:44,Makassar,Sulawesi Selatan,98.3,163.3,0.78,18.5,130,Unhealthy for Sensitive Groups,CO
+AQI-8895,2026-10-07 12:44,Bandung,Jawa Barat,95.4,115.3,1.61,45.8,124,Unhealthy for Sensitive Groups,PM2.5
+AQI-8896,2026-10-15 12:44,Makassar,Sulawesi Selatan,96.0,122.8,2.21,35.3,107,Unhealthy for Sensitive Groups,CO
+AQI-8897,2026-10-08 03:44,Semarang,Jawa Tengah,24.3,37.5,2.69,51.5,31,Good,PM2.5
+AQI-8898,2026-10-07 22:44,Bekasi,Jawa Barat,103.1,167.0,3.29,42.7,138,Unhealthy for Sensitive Groups,PM2.5
+AQI-8899,2026-10-13 03:44,Depok,Jawa Barat,84.5,150.1,1.28,20.5,107,Unhealthy for Sensitive Groups,CO
+AQI-8900,2026-10-07 10:44,Jakarta Pusat,DKI Jakarta,94.6,161.5,3.45,45.6,106,Unhealthy for Sensitive Groups,PM2.5
+AQI-8901,2026-10-10 04:44,Semarang,Jawa Tengah,22.0,38.1,0.65,39.4,29,Good,PM10
+AQI-8902,2026-09-26 12:44,Surabaya,Jawa Timur,26.4,33.6,2.6,30.3,34,Good,PM2.5
+AQI-8903,2026-10-04 16:44,Bandung,Jawa Barat,96.8,133.3,3.32,30.4,123,Unhealthy for Sensitive Groups,PM2.5
+AQI-8904,2026-10-06 15:44,Palembang,Sumatera Selatan,33.8,52.7,1.15,18.6,40,Good,PM2.5
+AQI-8905,2026-10-12 04:44,Jakarta Pusat,DKI Jakarta,57.1,85.0,1.92,32.2,70,Moderate,PM2.5
+AQI-8906,2026-10-03 19:44,Makassar,Sulawesi Selatan,39.7,56.7,1.07,40.7,45,Good,PM10
+AQI-8907,2026-09-22 23:44,Semarang,Jawa Tengah,64.7,107.2,2.59,51.5,85,Moderate,PM2.5
+AQI-8908,2026-10-11 12:44,Bekasi,Jawa Barat,50.7,61.4,2.27,44.5,69,Moderate,PM2.5
+AQI-8909,2026-10-03 23:44,Medan,Sumatera Utara,89.5,126.4,1.31,40.7,101,Unhealthy for Sensitive Groups,CO
+AQI-8910,2026-10-15 02:44,Medan,Sumatera Utara,73.9,112.1,2.03,33.4,97,Moderate,PM2.5
+AQI-8911,2026-10-16 10:44,Palembang,Sumatera Selatan,37.3,63.1,1.94,39.4,46,Good,PM10
+AQI-8912,2026-10-17 07:44,Bandung,Jawa Barat,54.8,90.8,2.94,33.7,71,Moderate,PM10
+AQI-8913,2026-10-02 07:44,Jakarta Pusat,DKI Jakarta,17.0,29.4,2.23,33.3,19,Good,PM2.5
+AQI-8914,2026-10-17 21:44,Depok,Jawa Barat,98.0,149.7,1.85,28.9,108,Unhealthy for Sensitive Groups,CO
+AQI-8915,2026-10-16 12:44,Bandung,Jawa Barat,93.9,123.0,2.01,34.3,105,Unhealthy for Sensitive Groups,PM2.5
+AQI-8916,2026-10-17 21:44,Semarang,Jawa Tengah,68.3,84.0,2.07,13.5,86,Moderate,PM2.5
+AQI-8917,2026-10-12 22:44,Tangerang,Banten,95.2,160.3,2.54,29.4,121,Unhealthy for Sensitive Groups,PM10
+AQI-8918,2026-10-09 12:44,Medan,Sumatera Utara,30.8,42.1,0.93,33.5,39,Good,PM2.5
+AQI-8919,2026-10-11 01:44,Tangerang,Banten,71.9,116.3,1.32,16.3,83,Moderate,PM2.5
+AQI-8920,2026-09-25 12:44,Semarang,Jawa Tengah,89.5,115.3,2.83,24.8,104,Unhealthy for Sensitive Groups,PM10
+AQI-8921,2026-09-29 04:44,Tangerang,Banten,92.2,115.8,3.39,27.8,121,Unhealthy for Sensitive Groups,PM10
+AQI-8922,2026-09-22 16:44,Bekasi,Jawa Barat,110.0,145.9,2.47,46.8,143,Unhealthy for Sensitive Groups,PM2.5
+AQI-8923,2026-10-03 21:44,Bekasi,Jawa Barat,77.6,138.0,0.72,23.8,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8924,2026-10-17 05:44,Makassar,Sulawesi Selatan,81.9,120.5,1.16,54.1,105,Unhealthy for Sensitive Groups,PM2.5
+AQI-8925,2026-10-13 12:44,Tangerang,Banten,50.9,64.1,2.98,45.3,56,Moderate,PM2.5
+AQI-8926,2026-10-17 20:44,Jakarta Pusat,DKI Jakarta,89.1,124.2,3.47,38.3,123,Unhealthy for Sensitive Groups,PM2.5
+AQI-8927,2026-09-26 19:44,Bandung,Jawa Barat,68.8,94.8,2.15,53.9,95,Moderate,NO2
+AQI-8928,2026-10-05 08:44,Bekasi,Jawa Barat,55.0,93.0,2.26,14.0,62,Moderate,CO
+AQI-8929,2026-10-13 12:44,Bandung,Jawa Barat,38.0,64.2,0.92,53.1,51,Moderate,PM2.5
+AQI-8930,2026-09-21 13:44,Semarang,Jawa Tengah,51.6,66.8,3.38,13.2,62,Moderate,PM10
+AQI-8931,2026-10-12 07:44,Depok,Jawa Barat,15.0,25.4,2.04,29.3,19,Good,PM2.5
+AQI-8932,2026-10-18 01:44,Tangerang,Banten,48.4,68.9,2.71,52.5,56,Moderate,PM10
+AQI-8933,2026-09-28 04:44,Jakarta Pusat,DKI Jakarta,32.4,58.1,1.69,41.7,36,Good,PM10
+AQI-8934,2026-09-26 00:44,Makassar,Sulawesi Selatan,107.3,141.9,1.0,50.0,142,Unhealthy for Sensitive Groups,PM10
+AQI-8935,2026-10-16 18:44,Semarang,Jawa Tengah,84.5,112.9,0.65,48.0,97,Moderate,PM2.5
+AQI-8936,2026-09-30 12:44,Makassar,Sulawesi Selatan,72.6,98.7,0.58,52.6,83,Moderate,NO2
+AQI-8937,2026-09-29 17:44,Makassar,Sulawesi Selatan,55.4,75.6,2.17,16.6,76,Moderate,PM10
+AQI-8938,2026-10-10 15:44,Bekasi,Jawa Barat,92.0,155.1,1.91,54.9,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-8939,2026-10-11 01:44,Makassar,Sulawesi Selatan,83.7,121.4,2.15,36.2,107,Unhealthy for Sensitive Groups,PM2.5
+AQI-8940,2026-09-26 22:44,Depok,Jawa Barat,81.5,121.1,0.95,50.3,91,Moderate,PM10
+AQI-8941,2026-10-13 09:44,Bekasi,Jawa Barat,102.3,125.1,2.63,48.5,116,Unhealthy for Sensitive Groups,NO2
+AQI-8942,2026-10-01 08:44,Makassar,Sulawesi Selatan,44.4,60.4,0.85,34.3,56,Moderate,PM2.5
+AQI-8943,2026-09-23 14:44,Bandung,Jawa Barat,55.3,83.2,2.14,24.9,67,Moderate,CO
+AQI-8944,2026-10-12 14:44,Palembang,Sumatera Selatan,96.3,169.8,1.42,23.5,116,Unhealthy for Sensitive Groups,PM2.5
+AQI-8945,2026-10-06 23:44,Surabaya,Jawa Timur,104.9,188.0,2.62,15.9,137,Unhealthy for Sensitive Groups,PM2.5
+AQI-8946,2026-10-01 21:44,Surabaya,Jawa Timur,98.8,163.7,1.68,28.8,117,Unhealthy for Sensitive Groups,NO2
+AQI-8947,2026-09-30 19:44,Palembang,Sumatera Selatan,72.8,121.4,3.12,30.2,98,Moderate,PM2.5
+AQI-8948,2026-09-22 02:44,Makassar,Sulawesi Selatan,19.3,29.6,1.89,33.4,25,Good,PM2.5
+AQI-8949,2026-10-19 13:44,Bandung,Jawa Barat,51.6,70.3,2.61,26.3,69,Moderate,PM10
+AQI-8950,2026-09-25 13:44,Jakarta Pusat,DKI Jakarta,102.4,139.3,1.97,28.8,119,Unhealthy for Sensitive Groups,PM2.5
+AQI-8951,2026-09-27 01:44,Bandung,Jawa Barat,26.3,46.2,1.45,45.6,35,Good,PM2.5
+AQI-8952,2026-09-29 01:44,Jakarta Pusat,DKI Jakarta,61.2,97.1,3.12,49.3,70,Moderate,PM2.5
+AQI-8953,2026-10-15 23:44,Medan,Sumatera Utara,87.5,108.7,1.54,14.2,96,Moderate,PM2.5
+AQI-8954,2026-09-30 12:44,Surabaya,Jawa Timur,94.3,118.0,1.07,54.7,108,Unhealthy for Sensitive Groups,PM2.5
+AQI-8955,2026-09-21 01:44,Depok,Jawa Barat,23.6,32.9,2.7,54.2,32,Good,PM10
+AQI-8956,2026-09-23 02:44,Jakarta Pusat,DKI Jakarta,101.9,126.9,0.7,18.7,128,Unhealthy for Sensitive Groups,PM10
+AQI-8957,2026-10-09 08:44,Bandung,Jawa Barat,89.0,109.3,2.43,51.9,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-8958,2026-10-17 06:44,Makassar,Sulawesi Selatan,34.7,53.6,1.25,30.6,44,Good,PM2.5
+AQI-8959,2026-10-11 15:44,Medan,Sumatera Utara,103.9,161.7,3.29,14.3,129,Unhealthy for Sensitive Groups,CO
+AQI-8960,2026-10-14 14:44,Bekasi,Jawa Barat,75.5,93.4,0.58,23.2,83,Moderate,PM2.5
+AQI-8961,2026-10-18 04:44,Depok,Jawa Barat,86.5,138.0,2.21,53.9,117,Unhealthy for Sensitive Groups,CO
+AQI-8962,2026-10-05 07:44,Depok,Jawa Barat,77.0,137.1,2.36,13.7,94,Moderate,CO
+AQI-8963,2026-10-05 15:44,Surabaya,Jawa Timur,100.5,152.0,0.68,47.8,114,Unhealthy for Sensitive Groups,CO
+AQI-8964,2026-10-18 12:44,Jakarta Pusat,DKI Jakarta,95.7,120.3,2.46,36.8,131,Unhealthy for Sensitive Groups,PM10
+AQI-8965,2026-10-13 18:44,Semarang,Jawa Tengah,48.2,72.1,2.59,34.0,66,Moderate,PM2.5
+AQI-8966,2026-10-01 21:44,Tangerang,Banten,95.5,129.6,0.51,54.0,112,Unhealthy for Sensitive Groups,PM10
+AQI-8967,2026-09-23 04:44,Medan,Sumatera Utara,82.0,131.7,1.71,21.0,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-8968,2026-09-26 12:44,Jakarta Pusat,DKI Jakarta,62.0,93.1,0.88,49.2,79,Moderate,PM2.5
+AQI-8969,2026-10-05 18:44,Bekasi,Jawa Barat,66.7,115.2,3.02,27.8,73,Moderate,CO
+AQI-8970,2026-10-15 04:44,Medan,Sumatera Utara,37.2,45.3,2.01,39.4,45,Good,PM2.5
+AQI-8971,2026-10-17 07:44,Jakarta Pusat,DKI Jakarta,17.7,22.4,2.41,36.5,22,Good,PM2.5
+AQI-8972,2026-10-06 18:44,Bandung,Jawa Barat,75.0,113.0,1.15,50.2,99,Moderate,CO
+AQI-8973,2026-10-12 11:44,Bekasi,Jawa Barat,105.7,165.8,2.51,16.8,125,Unhealthy for Sensitive Groups,PM2.5
+AQI-8974,2026-10-08 20:44,Surabaya,Jawa Timur,27.4,48.2,2.92,40.9,33,Good,PM2.5
+AQI-8975,2026-10-19 09:44,Bekasi,Jawa Barat,105.6,186.1,2.02,52.3,135,Unhealthy for Sensitive Groups,PM10
+AQI-8976,2026-09-27 06:44,Medan,Sumatera Utara,77.1,137.2,2.5,45.9,90,Moderate,PM2.5
+AQI-8977,2026-10-09 06:44,Jakarta Pusat,DKI Jakarta,106.7,164.3,2.52,52.0,127,Unhealthy for Sensitive Groups,PM2.5
+AQI-8978,2026-10-06 23:44,Bandung,Jawa Barat,62.6,83.2,2.97,43.6,81,Moderate,PM2.5
+AQI-8979,2026-09-24 19:44,Bandung,Jawa Barat,54.2,76.1,1.64,35.4,70,Moderate,PM10
+AQI-8980,2026-10-16 18:44,Bekasi,Jawa Barat,93.7,168.2,2.81,52.6,130,Unhealthy for Sensitive Groups,PM2.5
+AQI-8981,2026-09-20 13:44,Jakarta Pusat,DKI Jakarta,103.7,171.9,3.4,26.7,129,Unhealthy for Sensitive Groups,PM2.5
+AQI-8982,2026-09-29 06:44,Semarang,Jawa Tengah,43.4,70.1,2.25,44.4,54,Moderate,PM2.5
+AQI-8983,2026-10-15 00:44,Tangerang,Banten,87.6,138.1,3.01,23.3,98,Moderate,PM2.5
+AQI-8984,2026-10-14 00:44,Semarang,Jawa Tengah,31.3,43.9,3.05,26.4,42,Good,PM10
+AQI-8985,2026-10-04 22:44,Bandung,Jawa Barat,52.6,76.2,1.37,16.9,65,Moderate,PM2.5
+AQI-8986,2026-09-25 05:44,Bandung,Jawa Barat,46.6,80.3,1.77,53.8,56,Moderate,PM2.5
+AQI-8987,2026-10-15 00:44,Makassar,Sulawesi Selatan,105.6,184.1,2.85,16.8,133,Unhealthy for Sensitive Groups,PM10
+AQI-8988,2026-10-13 18:44,Makassar,Sulawesi Selatan,56.2,72.1,3.29,15.5,78,Moderate,PM2.5
+AQI-8989,2026-10-14 13:44,Makassar,Sulawesi Selatan,87.4,119.8,2.34,53.9,117,Unhealthy for Sensitive Groups,PM2.5
+AQI-8990,2026-09-21 07:44,Depok,Jawa Barat,23.9,31.6,0.95,26.4,28,Good,NO2
+AQI-8991,2026-10-05 13:44,Jakarta Pusat,DKI Jakarta,102.9,163.9,2.76,27.5,140,Unhealthy for Sensitive Groups,PM2.5
+AQI-8992,2026-09-29 12:44,Palembang,Sumatera Selatan,18.1,22.3,2.07,11.8,21,Good,NO2
+AQI-8993,2026-10-16 01:44,Semarang,Jawa Tengah,91.7,151.9,0.94,49.8,106,Unhealthy for Sensitive Groups,PM10
+AQI-8994,2026-09-30 07:44,Semarang,Jawa Tengah,20.2,32.0,2.56,11.5,25,Good,NO2
+AQI-8995,2026-09-20 06:44,Palembang,Sumatera Selatan,84.7,148.0,1.19,43.9,104,Unhealthy for Sensitive Groups,PM2.5
+AQI-8996,2026-09-28 06:44,Palembang,Sumatera Selatan,86.0,134.7,1.25,32.0,95,Moderate,NO2
+AQI-8997,2026-10-02 16:44,Tangerang,Banten,108.6,195.0,2.95,40.3,126,Unhealthy for Sensitive Groups,PM2.5
+AQI-8998,2026-09-26 23:44,Surabaya,Jawa Timur,55.9,67.7,3.21,45.6,77,Moderate,NO2
+AQI-8999,2026-09-25 14:44,Surabaya,Jawa Timur,48.7,80.4,1.18,48.0,54,Moderate,PM10
+AQI-9000,2026-10-19 06:44,Palembang,Sumatera Selatan,69.7,101.2,2.35,30.5,97,Moderate,PM2.5
+AQI-9001,2026-10-13 11:44,Bandung,Jawa Barat,65.1,100.3,0.5,54.4,75,Moderate,CO
+AQI-9002,2026-09-23 21:44,Semarang,Jawa Tengah,85.6,123.8,3.43,11.3,107,Unhealthy for Sensitive Groups,PM10
+AQI-9003,2026-10-11 18:44,Tangerang,Banten,58.4,89.6,2.91,35.0,76,Moderate,PM10
+AQI-9004,2026-09-29 16:44,Bekasi,Jawa Barat,18.4,32.7,2.28,35.1,21,Good,PM2.5
+AQI-9005,2026-10-01 22:44,Medan,Sumatera Utara,104.7,178.7,1.58,43.8,129,Unhealthy for Sensitive Groups,PM2.5
+AQI-9006,2026-10-16 02:44,Semarang,Jawa Tengah,106.5,129.1,1.25,53.4,131,Unhealthy for Sensitive Groups,PM10
+AQI-9007,2026-09-20 15:44,Bekasi,Jawa Barat,89.4,159.5,1.18,24.7,109,Unhealthy for Sensitive Groups,PM2.5
+AQI-9008,2026-09-25 18:44,Depok,Jawa Barat,105.1,151.9,1.54,28.5,145,Unhealthy for Sensitive Groups,PM2.5
+AQI-9009,2026-09-21 20:44,Bekasi,Jawa Barat,96.3,120.8,3.05,39.6,132,Unhealthy for Sensitive Groups,PM2.5
+AQI-9010,2026-09-23 02:44,Depok,Jawa Barat,88.7,119.0,1.4,17.7,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-9011,2026-09-22 19:44,Medan,Sumatera Utara,44.5,54.0,3.32,41.3,56,Moderate,PM2.5
+AQI-9012,2026-10-01 12:44,Bandung,Jawa Barat,63.7,96.8,0.74,23.8,82,Moderate,CO
+AQI-9013,2026-10-02 00:44,Semarang,Jawa Tengah,54.4,71.8,3.23,22.8,63,Moderate,NO2
+AQI-9014,2026-10-07 19:44,Tangerang,Banten,78.6,133.9,0.91,43.3,92,Moderate,PM10
+AQI-9015,2026-09-26 04:44,Jakarta Pusat,DKI Jakarta,52.5,85.2,3.11,17.7,62,Moderate,PM10
+AQI-9016,2026-10-12 08:44,Makassar,Sulawesi Selatan,96.9,123.8,1.43,18.1,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-9017,2026-10-16 11:44,Depok,Jawa Barat,16.1,25.5,3.5,42.9,21,Good,PM10
+AQI-9018,2026-10-06 06:44,Semarang,Jawa Tengah,98.7,165.1,2.03,49.2,108,Unhealthy for Sensitive Groups,PM2.5
+AQI-9019,2026-10-07 19:44,Surabaya,Jawa Timur,93.9,166.6,3.12,16.7,131,Unhealthy for Sensitive Groups,CO
+AQI-9020,2026-10-19 05:44,Makassar,Sulawesi Selatan,64.9,96.0,3.05,13.7,77,Moderate,PM2.5
+AQI-9021,2026-10-15 00:44,Semarang,Jawa Tengah,42.7,64.9,3.44,18.2,50,Good,CO
+AQI-9022,2026-10-05 17:44,Makassar,Sulawesi Selatan,42.4,67.0,3.3,50.1,51,Moderate,PM10
+AQI-9023,2026-10-06 12:44,Makassar,Sulawesi Selatan,36.7,51.5,3.15,31.2,49,Good,PM2.5
+AQI-9024,2026-10-19 18:44,Bandung,Jawa Barat,27.4,45.4,1.41,19.9,37,Good,PM2.5
+AQI-9025,2026-09-21 17:44,Bandung,Jawa Barat,108.0,156.9,1.5,47.8,121,Unhealthy for Sensitive Groups,NO2
+AQI-9026,2026-09-21 12:44,Surabaya,Jawa Timur,108.5,138.4,0.53,15.0,125,Unhealthy for Sensitive Groups,PM2.5
+AQI-9027,2026-10-10 08:44,Medan,Sumatera Utara,98.9,166.2,2.37,52.2,134,Unhealthy for Sensitive Groups,CO
+AQI-9028,2026-10-09 00:44,Tangerang,Banten,52.4,90.8,1.34,47.1,58,Moderate,PM10
+AQI-9029,2026-10-10 16:44,Surabaya,Jawa Timur,25.2,42.6,3.01,40.0,34,Good,PM10
+AQI-9030,2026-09-25 09:44,Surabaya,Jawa Timur,77.4,133.0,1.45,39.9,96,Moderate,CO
+AQI-9031,2026-10-15 19:44,Bandung,Jawa Barat,17.8,24.9,0.99,53.6,24,Good,PM2.5
+AQI-9032,2026-10-08 02:44,Medan,Sumatera Utara,75.3,121.6,2.48,13.8,92,Moderate,PM2.5
+AQI-9033,2026-09-26 23:44,Palembang,Sumatera Selatan,39.6,58.4,2.14,19.5,51,Moderate,PM2.5
+AQI-9034,2026-10-18 12:44,Jakarta Pusat,DKI Jakarta,43.6,59.9,2.21,50.5,59,Moderate,PM2.5
+AQI-9035,2026-09-22 01:44,Jakarta Pusat,DKI Jakarta,81.3,125.2,2.5,41.6,91,Moderate,PM10
+AQI-9036,2026-10-02 05:44,Depok,Jawa Barat,96.9,153.9,2.58,25.8,122,Unhealthy for Sensitive Groups,CO
+AQI-9037,2026-10-07 22:44,Depok,Jawa Barat,105.8,127.9,1.94,41.6,121,Unhealthy for Sensitive Groups,CO
+AQI-9038,2026-09-30 10:44,Tangerang,Banten,54.7,97.6,3.17,24.4,63,Moderate,PM2.5
+AQI-9039,2026-10-01 08:44,Depok,Jawa Barat,62.0,85.2,3.4,21.7,68,Moderate,CO
+AQI-9040,2026-09-23 12:44,Depok,Jawa Barat,35.4,43.4,2.17,38.7,39,Good,PM2.5
+AQI-9041,2026-09-21 16:44,Tangerang,Banten,76.2,114.9,1.96,22.2,85,Moderate,PM2.5
+AQI-9042,2026-10-14 13:44,Jakarta Pusat,DKI Jakarta,43.9,63.8,1.18,14.4,52,Moderate,PM2.5
+AQI-9043,2026-10-11 17:44,Bekasi,Jawa Barat,109.4,172.0,1.14,52.0,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-9044,2026-09-20 20:44,Makassar,Sulawesi Selatan,98.4,143.1,1.64,21.6,130,Unhealthy for Sensitive Groups,CO
+AQI-9045,2026-10-17 22:44,Makassar,Sulawesi Selatan,45.9,81.0,1.3,30.8,59,Moderate,NO2
+AQI-9046,2026-09-22 16:44,Bekasi,Jawa Barat,98.7,174.9,1.45,18.7,108,Unhealthy for Sensitive Groups,PM2.5
+AQI-9047,2026-09-25 17:44,Jakarta Pusat,DKI Jakarta,62.8,107.8,1.03,24.7,82,Moderate,PM2.5
+AQI-9048,2026-10-01 14:44,Makassar,Sulawesi Selatan,65.4,85.5,2.63,54.6,73,Moderate,PM2.5
+AQI-9049,2026-09-30 14:44,Jakarta Pusat,DKI Jakarta,90.3,158.8,2.51,51.3,111,Unhealthy for Sensitive Groups,PM10
+AQI-9050,2026-09-20 17:44,Makassar,Sulawesi Selatan,17.1,30.6,0.6,30.8,20,Good,PM10
+AQI-9051,2026-10-10 08:44,Semarang,Jawa Tengah,51.8,62.3,1.51,40.8,69,Moderate,PM2.5
+AQI-9052,2026-10-10 15:44,Medan,Sumatera Utara,33.6,51.2,1.42,28.9,44,Good,PM2.5
+AQI-9053,2026-09-29 16:44,Semarang,Jawa Tengah,50.7,61.2,1.02,50.0,65,Moderate,PM2.5
+AQI-9054,2026-10-05 12:44,Depok,Jawa Barat,29.0,40.7,1.16,16.2,32,Good,PM2.5
+AQI-9055,2026-10-15 03:44,Depok,Jawa Barat,63.9,98.6,2.74,21.1,87,Moderate,PM2.5
+AQI-9056,2026-09-29 14:44,Bekasi,Jawa Barat,81.4,134.8,2.68,37.8,91,Moderate,PM2.5
+AQI-9057,2026-10-01 08:44,Bekasi,Jawa Barat,52.9,84.2,3.42,13.2,68,Moderate,PM10
+AQI-9058,2026-09-26 01:44,Depok,Jawa Barat,21.9,39.4,1.92,44.9,25,Good,PM2.5
+AQI-9059,2026-10-18 16:44,Medan,Sumatera Utara,33.1,40.6,1.94,50.8,44,Good,PM2.5
+AQI-9060,2026-09-23 17:44,Makassar,Sulawesi Selatan,87.4,143.0,2.11,25.6,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-9061,2026-10-07 21:44,Surabaya,Jawa Timur,78.6,138.8,0.79,44.1,100,Moderate,PM2.5
+AQI-9062,2026-09-30 06:44,Bekasi,Jawa Barat,62.6,75.7,2.8,42.9,75,Moderate,PM2.5
+AQI-9063,2026-09-24 17:44,Makassar,Sulawesi Selatan,58.0,86.6,1.23,38.6,80,Moderate,PM2.5
+AQI-9064,2026-09-21 14:44,Palembang,Sumatera Selatan,42.6,56.3,1.28,34.2,54,Moderate,PM2.5
+AQI-9065,2026-10-01 18:44,Bekasi,Jawa Barat,75.0,107.3,2.76,37.3,95,Moderate,PM2.5
+AQI-9066,2026-10-19 10:44,Jakarta Pusat,DKI Jakarta,101.8,128.6,3.07,14.6,115,Unhealthy for Sensitive Groups,PM10
+AQI-9067,2026-10-16 21:44,Surabaya,Jawa Timur,52.9,90.3,1.62,38.6,71,Moderate,PM10
+AQI-9068,2026-09-26 08:44,Palembang,Sumatera Selatan,30.4,47.1,1.38,32.9,36,Good,PM2.5
+AQI-9069,2026-10-11 04:44,Palembang,Sumatera Selatan,61.7,91.8,2.18,34.8,68,Moderate,PM10
+AQI-9070,2026-09-29 07:44,Surabaya,Jawa Timur,60.6,99.4,3.14,42.9,68,Moderate,PM2.5
+AQI-9071,2026-10-19 22:44,Jakarta Pusat,DKI Jakarta,94.4,133.7,0.71,52.4,113,Unhealthy for Sensitive Groups,PM2.5
+AQI-9072,2026-09-27 10:44,Tangerang,Banten,37.4,65.8,0.87,29.4,47,Good,PM2.5
+AQI-9073,2026-10-14 06:44,Tangerang,Banten,22.5,29.5,1.96,40.6,26,Good,PM2.5
+AQI-9074,2026-09-29 02:44,Tangerang,Banten,79.3,106.6,1.24,26.7,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-9075,2026-10-03 20:44,Bekasi,Jawa Barat,34.7,48.2,2.64,39.3,43,Good,PM10
+AQI-9076,2026-10-16 23:44,Tangerang,Banten,36.3,57.5,2.78,50.9,44,Good,PM10
+AQI-9077,2026-10-19 12:44,Bandung,Jawa Barat,66.6,89.4,3.0,49.1,89,Moderate,NO2
+AQI-9078,2026-10-04 18:44,Bekasi,Jawa Barat,24.3,38.0,1.57,32.5,33,Good,PM2.5
+AQI-9079,2026-09-21 14:44,Makassar,Sulawesi Selatan,73.0,118.8,2.07,33.9,100,Moderate,PM2.5
+AQI-9080,2026-10-12 03:44,Jakarta Pusat,DKI Jakarta,27.7,39.1,2.8,52.9,31,Good,PM2.5
+AQI-9081,2026-09-28 08:44,Makassar,Sulawesi Selatan,84.5,109.5,0.92,22.6,115,Unhealthy for Sensitive Groups,PM2.5
+AQI-9082,2026-10-01 12:44,Medan,Sumatera Utara,73.4,99.7,2.67,42.4,84,Moderate,PM2.5
+AQI-9083,2026-10-05 05:44,Semarang,Jawa Tengah,96.2,160.5,0.63,32.5,124,Unhealthy for Sensitive Groups,PM10
+AQI-9084,2026-10-15 15:44,Depok,Jawa Barat,39.0,57.2,2.41,52.2,43,Good,PM2.5
+AQI-9085,2026-10-17 09:44,Surabaya,Jawa Timur,88.1,108.0,1.21,39.0,99,Moderate,PM2.5
+AQI-9086,2026-09-29 14:44,Medan,Sumatera Utara,67.5,117.1,0.78,52.1,89,Moderate,PM10
+AQI-9087,2026-10-16 09:44,Bandung,Jawa Barat,81.7,124.0,1.71,23.9,91,Moderate,PM2.5
+AQI-9088,2026-10-09 06:44,Bandung,Jawa Barat,57.7,72.7,2.56,21.0,76,Moderate,PM2.5
+AQI-9089,2026-10-18 09:44,Tangerang,Banten,16.5,25.7,2.29,18.9,20,Good,PM2.5
+AQI-9090,2026-10-08 00:44,Jakarta Pusat,DKI Jakarta,66.5,110.7,2.0,34.4,86,Moderate,PM2.5
+AQI-9091,2026-10-08 00:44,Tangerang,Banten,109.9,147.3,0.52,39.0,135,Unhealthy for Sensitive Groups,PM2.5
+AQI-9092,2026-09-29 07:44,Jakarta Pusat,DKI Jakarta,49.9,75.2,0.66,28.6,66,Moderate,NO2
+AQI-9093,2026-10-13 23:44,Medan,Sumatera Utara,95.7,130.4,1.11,37.5,109,Unhealthy for Sensitive Groups,PM2.5
+AQI-9094,2026-09-29 04:44,Jakarta Pusat,DKI Jakarta,58.1,75.5,1.02,21.4,65,Moderate,PM2.5
+AQI-9095,2026-10-12 01:44,Palembang,Sumatera Selatan,49.9,65.1,3.28,14.9,56,Moderate,PM2.5
+AQI-9096,2026-09-23 01:44,Depok,Jawa Barat,98.0,171.7,2.17,48.5,131,Unhealthy for Sensitive Groups,PM2.5
+AQI-9097,2026-10-15 06:44,Bandung,Jawa Barat,105.8,156.4,3.06,43.1,122,Unhealthy for Sensitive Groups,PM2.5
+AQI-9098,2026-09-27 14:44,Depok,Jawa Barat,22.7,31.7,3.37,10.6,31,Good,PM2.5
+AQI-9099,2026-09-22 21:44,Palembang,Sumatera Selatan,102.7,184.6,1.32,25.3,132,Unhealthy for Sensitive Groups,PM2.5
+AQI-9100,2026-10-20 01:44,Tangerang,Banten,24.7,30.9,2.54,52.0,32,Good,CO
+AQI-9101,2026-09-22 06:44,Medan,Sumatera Utara,51.0,75.4,2.95,20.0,64,Moderate,PM10
+AQI-9102,2026-10-19 04:44,Makassar,Sulawesi Selatan,62.9,95.3,2.08,22.4,71,Moderate,CO
+AQI-9103,2026-10-17 09:44,Palembang,Sumatera Selatan,99.1,153.3,2.35,50.8,137,Unhealthy for Sensitive Groups,PM2.5
+AQI-9104,2026-10-15 22:44,Surabaya,Jawa Timur,98.1,173.7,3.11,49.6,124,Unhealthy for Sensitive Groups,PM10
+AQI-9105,2026-10-09 19:44,Surabaya,Jawa Timur,90.2,156.5,1.59,48.8,105,Unhealthy for Sensitive Groups,PM2.5
+AQI-9106,2026-09-22 03:44,Semarang,Jawa Tengah,102.8,177.9,1.46,35.1,136,Unhealthy for Sensitive Groups,PM10
+AQI-9107,2026-10-19 13:44,Palembang,Sumatera Selatan,16.9,28.9,2.69,46.6,20,Good,PM2.5
+AQI-9108,2026-09-30 03:44,Semarang,Jawa Tengah,28.5,35.2,3.18,48.1,33,Good,PM2.5
+AQI-9109,2026-09-26 20:44,Bekasi,Jawa Barat,16.6,24.9,2.58,42.9,18,Good,PM10
+AQI-9110,2026-10-16 03:44,Depok,Jawa Barat,90.4,140.6,2.48,48.9,105,Unhealthy for Sensitive Groups,PM10
+AQI-9111,2026-09-28 09:44,Depok,Jawa Barat,35.9,50.1,1.92,52.7,44,Good,PM10
+AQI-9112,2026-09-22 21:44,Semarang,Jawa Tengah,77.3,113.6,0.52,11.7,102,Unhealthy for Sensitive Groups,PM2.5
+AQI-9113,2026-10-13 04:44,Palembang,Sumatera Selatan,71.8,98.1,1.89,41.8,99,Moderate,PM2.5
+AQI-9114,2026-09-23 20:44,Bekasi,Jawa Barat,71.8,94.8,1.32,33.6,95,Moderate,PM2.5
+AQI-9115,2026-09-25 08:44,Surabaya,Jawa Timur,74.2,122.8,1.31,25.7,88,Moderate,PM2.5
+AQI-9116,2026-09-29 09:44,Jakarta Pusat,DKI Jakarta,105.3,176.6,2.36,38.5,146,Unhealthy for Sensitive Groups,PM2.5
+AQI-9117,2026-10-02 19:44,Semarang,Jawa Tengah,103.0,184.8,3.45,26.1,134,Unhealthy for Sensitive Groups,PM2.5
+AQI-9118,2026-10-11 22:44,Makassar,Sulawesi Selatan,30.3,50.9,1.64,12.5,33,Good,PM2.5
+AQI-9119,2026-10-04 10:44,Bandung,Jawa Barat,82.8,113.7,1.83,35.4,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-9120,2026-10-04 12:44,Bekasi,Jawa Barat,101.2,179.5,1.56,25.4,129,Unhealthy for Sensitive Groups,NO2
+AQI-9121,2026-10-09 00:44,Depok,Jawa Barat,64.0,79.7,0.6,29.4,87,Moderate,CO
+AQI-9122,2026-10-15 07:44,Palembang,Sumatera Selatan,61.8,85.0,1.25,45.2,77,Moderate,PM10
+AQI-9123,2026-09-30 06:44,Semarang,Jawa Tengah,107.1,156.4,2.14,17.2,124,Unhealthy for Sensitive Groups,NO2
+AQI-9124,2026-10-03 04:44,Jakarta Pusat,DKI Jakarta,27.5,38.6,2.7,40.8,35,Good,PM2.5
+AQI-9125,2026-09-25 23:44,Semarang,Jawa Tengah,25.2,38.7,3.11,12.4,27,Good,PM10
+AQI-9126,2026-09-28 21:44,Palembang,Sumatera Selatan,23.2,34.2,1.02,34.6,27,Good,NO2
+AQI-9127,2026-10-09 15:44,Bekasi,Jawa Barat,87.0,135.3,3.15,10.1,100,Moderate,NO2
+AQI-9128,2026-10-15 14:44,Semarang,Jawa Tengah,51.9,78.5,2.93,12.3,64,Moderate,PM10
+AQI-9129,2026-10-05 00:44,Jakarta Pusat,DKI Jakarta,26.1,42.7,1.42,12.5,28,Good,PM10
+AQI-9130,2026-10-02 14:44,Medan,Sumatera Utara,93.6,153.6,3.2,54.3,103,Unhealthy for Sensitive Groups,PM2.5
+AQI-9131,2026-09-30 02:44,Palembang,Sumatera Selatan,23.8,34.9,1.34,23.6,28,Good,NO2
+AQI-9132,2026-10-06 22:44,Tangerang,Banten,51.4,68.1,0.5,48.9,69,Moderate,PM2.5
+AQI-9133,2026-09-24 08:44,Surabaya,Jawa Timur,30.0,49.4,1.91,15.6,41,Good,PM2.5
+AQI-9134,2026-10-02 02:44,Jakarta Pusat,DKI Jakarta,65.7,89.3,2.63,16.7,79,Moderate,PM10
+AQI-9135,2026-10-12 19:44,Semarang,Jawa Tengah,100.1,174.4,0.8,46.4,129,Unhealthy for Sensitive Groups,PM2.5
+AQI-9136,2026-09-30 15:44,Medan,Sumatera Utara,67.6,104.4,3.13,51.7,83,Moderate,PM10
+AQI-9137,2026-10-18 15:44,Depok,Jawa Barat,61.0,96.2,0.99,28.5,80,Moderate,PM10
+AQI-9138,2026-10-11 00:44,Bekasi,Jawa Barat,98.7,128.3,3.15,27.3,108,Unhealthy for Sensitive Groups,PM2.5
+AQI-9139,2026-09-22 07:44,Jakarta Pusat,DKI Jakarta,40.1,65.9,1.53,48.9,53,Moderate,PM2.5
+AQI-9140,2026-10-13 01:44,Tangerang,Banten,80.0,136.2,3.41,38.7,101,Unhealthy for Sensitive Groups,PM2.5
+AQI-9141,2026-10-05 05:44,Surabaya,Jawa Timur,82.8,111.3,0.53,18.0,95,Moderate,NO2
+AQI-9142,2026-10-07 08:44,Semarang,Jawa Tengah,27.6,46.2,2.45,45.6,36,Good,PM2.5
+AQI-9143,2026-09-30 19:44,Surabaya,Jawa Timur,70.5,111.9,3.21,43.0,95,Moderate,PM2.5
+AQI-9144,2026-10-13 23:44,Bandung,Jawa Barat,26.7,42.2,1.89,35.3,36,Good,PM10
+AQI-9145,2026-10-16 11:44,Tangerang,Banten,61.7,80.5,3.41,22.1,80,Moderate,NO2
+AQI-9146,2026-09-23 22:44,Depok,Jawa Barat,15.2,24.0,3.28,40.0,18,Good,PM2.5
+AQI-9147,2026-10-14 16:44,Tangerang,Banten,57.8,73.6,0.55,17.6,64,Moderate,PM2.5
+AQI-9148,2026-10-14 11:44,Medan,Sumatera Utara,73.5,108.4,1.69,42.8,83,Moderate,PM2.5
+AQI-9149,2026-10-16 09:44,Surabaya,Jawa Timur,101.3,157.6,2.6,24.9,114,Unhealthy for Sensitive Groups,NO2
+AQI-9150,2026-09-24 09:44,Jakarta Pusat,DKI Jakarta,55.8,95.4,1.4,20.0,64,Moderate,CO
+AQI-9151,2026-10-02 18:44,Surabaya,Jawa Timur,93.2,132.9,3.12,14.6,120,Unhealthy for Sensitive Groups,PM2.5
+AQI-9152,2026-10-02 11:44,Semarang,Jawa Tengah,25.0,38.4,2.11,54.7,27,Good,PM10
+AQI-9153,2026-09-24 19:44,Makassar,Sulawesi Selatan,80.0,139.2,2.13,39.6,94,Moderate,PM10
+AQI-9154,2026-10-02 03:44,Bekasi,Jawa Barat,96.8,143.8,0.83,52.0,122,Unhealthy for Sensitive Groups,NO2
+AQI-9155,2026-10-15 04:44,Medan,Sumatera Utara,96.6,122.2,0.68,28.8,127,Unhealthy for Sensitive Groups,PM2.5
+AQI-9156,2026-10-09 13:44,Medan,Sumatera Utara,21.0,37.4,1.14,20.8,26,Good,PM10
+AQI-9157,2026-10-06 15:44,Bekasi,Jawa Barat,98.8,124.6,1.09,54.4,114,Unhealthy for Sensitive Groups,NO2
+AQI-9158,2026-10-11 01:44,Jakarta Pusat,DKI Jakarta,90.7,153.6,2.16,27.6,99,Moderate,PM2.5
+AQI-9159,2026-09-26 19:44,Tangerang,Banten,15.6,26.3,1.18,52.0,17,Good,PM2.5
+AQI-9160,2026-09-21 13:44,Tangerang,Banten,72.1,101.0,1.85,28.3,99,Moderate,PM2.5
+AQI-9161,2026-09-23 03:44,Depok,Jawa Barat,60.0,78.2,2.68,24.2,68,Moderate,PM2.5
+AQI-9162,2026-10-06 19:44,Jakarta Pusat,DKI Jakarta,15.2,21.9,2.47,16.5,17,Good,PM2.5
+AQI-9163,2026-10-08 06:44,Surabaya,Jawa Timur,27.1,44.9,3.0,50.9,37,Good,CO
+AQI-9164,2026-09-22 13:44,Depok,Jawa Barat,65.7,110.6,3.32,21.2,86,Moderate,CO
+AQI-9165,2026-10-16 04:44,Medan,Sumatera Utara,57.5,98.4,2.15,52.2,68,Moderate,PM2.5
+AQI-9166,2026-09-27 01:44,Medan,Sumatera Utara,24.9,30.5,2.59,54.5,34,Good,PM10
+AQI-9167,2026-10-15 19:44,Surabaya,Jawa Timur,99.0,172.6,3.28,19.8,124,Unhealthy for Sensitive Groups,NO2
+AQI-9168,2026-10-16 19:44,Depok,Jawa Barat,57.5,100.7,1.52,40.2,71,Moderate,PM10
+AQI-9169,2026-10-18 00:44,Bandung,Jawa Barat,35.3,53.8,1.17,28.2,48,Good,CO
+AQI-9170,2026-09-28 19:44,Depok,Jawa Barat,82.1,111.8,2.11,35.9,97,Moderate,CO
+AQI-9171,2026-10-07 18:44,Makassar,Sulawesi Selatan,18.1,25.0,2.72,17.1,23,Good,PM2.5
+AQI-9172,2026-10-03 05:44,Depok,Jawa Barat,20.6,33.5,3.12,54.6,22,Good,PM2.5
+AQI-9173,2026-10-01 18:44,Bandung,Jawa Barat,43.0,67.5,3.07,36.2,53,Moderate,PM2.5
+AQI-9174,2026-10-15 04:44,Bandung,Jawa Barat,65.3,92.5,2.08,42.7,87,Moderate,CO
+AQI-9175,2026-10-01 20:44,Bandung,Jawa Barat,18.6,22.5,0.97,28.6,21,Good,CO
+AQI-9176,2026-10-16 20:44,Bekasi,Jawa Barat,25.1,35.9,3.25,54.3,32,Good,NO2
+AQI-9177,2026-10-15 18:44,Bekasi,Jawa Barat,85.0,109.0,1.89,32.4,98,Moderate,PM2.5
+AQI-9178,2026-09-26 22:44,Palembang,Sumatera Selatan,62.9,107.1,2.72,44.4,87,Moderate,PM2.5
+AQI-9179,2026-10-03 03:44,Semarang,Jawa Tengah,96.7,127.9,3.4,27.2,126,Unhealthy for Sensitive Groups,PM2.5
+AQI-9180,2026-10-07 12:44,Tangerang,Banten,35.6,42.8,2.64,36.2,40,Good,PM10
+AQI-9181,2026-10-19 01:44,Semarang,Jawa Tengah,65.8,91.1,3.23,18.3,91,Moderate,PM10
+AQI-9182,2026-09-27 12:44,Tangerang,Banten,87.5,130.3,0.81,11.2,106,Unhealthy for Sensitive Groups,PM2.5
+AQI-9183,2026-10-15 11:44,Depok,Jawa Barat,73.6,98.0,3.42,54.9,85,Moderate,PM10
+AQI-9184,2026-10-12 12:44,Depok,Jawa Barat,72.8,95.1,0.66,44.0,87,Moderate,NO2
+AQI-9185,2026-10-17 12:44,Semarang,Jawa Tengah,42.7,63.5,0.58,25.3,50,Good,PM2.5
+AQI-9186,2026-10-02 21:44,Makassar,Sulawesi Selatan,51.0,90.5,2.69,52.3,68,Moderate,PM2.5
+AQI-9187,2026-10-10 06:44,Palembang,Sumatera Selatan,87.8,144.3,1.75,45.5,103,Unhealthy for Sensitive Groups,CO
+AQI-9188,2026-10-05 21:44,Makassar,Sulawesi Selatan,41.0,58.8,2.5,54.9,53,Moderate,PM2.5
+AQI-9189,2026-09-20 16:44,Medan,Sumatera Utara,91.4,139.7,1.26,22.2,105,Unhealthy for Sensitive Groups,PM2.5
+AQI-9190,2026-09-25 02:44,Jakarta Pusat,DKI Jakarta,103.9,137.9,1.09,17.7,145,Unhealthy for Sensitive Groups,PM2.5
+AQI-9191,2026-09-26 08:44,Medan,Sumatera Utara,48.1,67.6,3.11,44.2,59,Moderate,PM2.5
+AQI-9192,2026-10-08 21:44,Semarang,Jawa Tengah,70.6,111.0,2.22,52.1,81,Moderate,PM2.5
+AQI-9193,2026-09-22 02:44,Bekasi,Jawa Barat,16.7,26.3,2.92,43.0,21,Good,PM2.5
+AQI-9194,2026-10-19 14:44,Bekasi,Jawa Barat,34.1,49.1,2.3,36.0,40,Good,PM2.5
+AQI-9195,2026-10-06 16:44,Medan,Sumatera Utara,80.5,103.1,3.44,48.3,91,Moderate,PM2.5
+AQI-9196,2026-09-24 20:44,Surabaya,Jawa Timur,94.1,155.4,1.38,29.6,119,Unhealthy for Sensitive Groups,PM2.5
+AQI-9197,2026-09-23 00:44,Makassar,Sulawesi Selatan,104.6,149.0,1.8,34.1,118,Unhealthy for Sensitive Groups,PM2.5
+AQI-9198,2026-09-27 17:44,Surabaya,Jawa Timur,75.0,107.7,2.77,43.5,83,Moderate,PM2.5
+AQI-9199,2026-10-15 04:44,Bekasi,Jawa Barat,32.4,39.4,1.43,50.4,37,Good,PM10
